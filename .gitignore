@@ -40,3 +40,6 @@ out/
 
 # Ignore application.properties in the specified path
 /src/main/resources/application.properties
+
+# Ignore .env files
+*.env

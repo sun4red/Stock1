@@ -11,4 +11,9 @@ public class TestController {
         return "test/test";
     }
 
+    @RequestMapping("list")
+    public String listPage(){
+        return "test/list";
+    }
+
 }
