@@ -11,5 +11,28 @@ public class StockPriceInfo {
     private String resultType;
     private Date basDt;
 
-    // 반환정보
+    // 응답 정보
+
+    private int resultCode;
+    private String resultMsg;
+//  numOfRows
+//  pageNo
+    private int totalCount;
+//  basDt
+    private int srtnCd;
+    private String isinCd;
+    private String itmsNm;
+    private String mrktCtg;
+    private int clpr;
+    private int vs;
+    private double fltRt;
+    private int mkp;
+    private int hipr;
+    private int lopr;
+    private long trqu;
+    private long trPrc;
+    private int lstgStCnt;
+    private long mrktTotAmt;
+
+
 }
