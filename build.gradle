@@ -45,6 +45,13 @@ dependencies {
 	//json 라이브러리
 	// https://mvnrepository.com/artifact/org.json/json
 	implementation group: 'org.json', name: 'json', version: '20231013'
+
+	// mybatis
+	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.0' // MyBatis Spring Boot Starter 의존성
+	implementation 'org.springframework.boot:spring-boot-starter-jdbc' // JDBC 스타터 의존성
+
+
+
 }
 
 tasks.named('test') {

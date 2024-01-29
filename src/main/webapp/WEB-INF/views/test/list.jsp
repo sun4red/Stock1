@@ -37,19 +37,20 @@
 
                 for (const item of data.response.body.items.item) {
                     row += "<tr><td>" + item.basDt + "</td><td>"
-                        + item.clpr + "</td><td>"
-                        + item.fltRt + "</td><td>"
-                        + item.hipr + "</td><td>"
-                        + item.itmsNm + "</td><td>"
-                        + item.lopr + "</td><td>"
-                        + item.lstgStCnt + "</td><td>"
-                        + item.mkp + "</td><td>"
-                        + item.mrktCtg + "</td><td>"
-                        + item.mrktTotAmt + "</td><td>"
                         + item.srtnCd + "</td><td>"
-                        + item.trPrc + "</td><td>"
+                        + item.isinCd + "</td><td>"
+                        + item.itmsNm + "</td><td>"
+                        + item.mrktCtg + "</td><td>"
+                        + item.clpr + "</td><td>"
+                        + item.vs + "</td><td>"
+                        + item.fltRt + "</td><td>"
+                        + item.mkp + "</td><td>"
+                        + item.hipr + "</td><td>"
+                        + item.lopr + "</td><td>"
                         + item.trqu + "</td><td>"
-                        + item.vs + "</td></tr>";
+                        + item.trPrc + "</td><td>"
+                        + item.lstgStCnt + "</td><td>"
+                        + item.mrktTotAmt + "</td></tr>";
                 }
 
 

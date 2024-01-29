@@ -3,8 +3,6 @@ package make.money.stock1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
 
