@@ -15,7 +15,7 @@ public class CodeDao {
 
     public int insertCode(CorpCode corpCode){
 
-        return session.insert("corpcode.insertcode", corpCode);
+        return session.insert("corpCode.insertcode", corpCode);
     }
 
 

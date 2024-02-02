@@ -1,24 +1,19 @@
 package make.money.stock1.controller;
 
-import lombok.RequiredArgsConstructor;
+import make.money.stock1.CorpCodeParser;
 import make.money.stock1.EnvReader;
 import make.money.stock1.model.CorpCode;
 import make.money.stock1.model.StockPriceInfo;
 import make.money.stock1.service.CodeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.stereotype.Service;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.Date;
-import java.util.Map;
-
-import static make.money.stock1.EnvReader.readEnv;
+import java.util.List;
 
 @Controller
 public class TestController {
@@ -67,6 +62,20 @@ public class TestController {
         corpCode.setModify_date(new Date());
 
 codeService.insertCode(corpCode);
+
+        return "redirect:/";
+    }
+
+    @RequestMapping("parsingxml")
+    public String parsingXml(){
+        CorpCodeParser corpCodeParser = new CorpCodeParser();
+        List<CorpCode> codeList = corpCodeParser.parsingXml();
+
+        for(int i = 0; i < codeList.size() ; i++){
+            codeService.insertCode(codeList.get(i));
+        }
+
+
 
         return "redirect:/";
     }
