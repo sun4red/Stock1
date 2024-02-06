@@ -7,7 +7,8 @@
 출력 테스트
 <br>
 <a href="list">리스트 페이지로 이동</a>
-
+<br>
+<a href="stocksearch">종목검색</a>
 
 
 

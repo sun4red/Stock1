@@ -25,3 +25,8 @@ create table corpcode(
 );
 
 select * from corpcode;
+
+create view listedcorp as
+    (select * from corpcode where stock_code <> 0);
+
+select * from listedcorp;

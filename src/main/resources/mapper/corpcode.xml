@@ -7,4 +7,17 @@
         insert into corpcode values (#{corp_code}, #{corp_name}, #{stock_code}, #{modify_date})
     </insert>
 
+    <select id="searchbycorpcode" parameterType="corpCode" resultType="corpCode">
+        select * from listedcorp where corp_code like '%' || #{corp_code} || '%'
+    </select>
+
+    <select id="searchbycorpname" parameterType="corpCode" resultType="corpCode">
+        select * from listedcorp where corp_code like '%' || #{corp_name} || '%'
+    </select>
+
+    <select id="searchbystockcode" parameterType="corpCode" resultType="corpCode">
+        select * from listedcorp where corp_code like '%' || #{stock_code} || '%'
+    </select>
+
+
 </mapper>

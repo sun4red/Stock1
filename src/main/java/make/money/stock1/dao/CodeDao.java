@@ -4,6 +4,8 @@ import make.money.stock1.model.CorpCode;
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository
 public class CodeDao {
 
@@ -17,6 +19,19 @@ public class CodeDao {
 
         return session.insert("corpCode.insertcode", corpCode);
     }
+
+    public List<CorpCode> searchByCorpCode(CorpCode corpCode){
+        return session.selectList("corpCode.searchbycorpcode", corpCode);
+    }
+
+    public List<CorpCode> searchByCorpName(CorpCode corpCode){
+        return session.selectList("corpCode.searchbycorpname", corpCode);
+    }
+
+    public List<CorpCode> searchByStockCode(CorpCode corpCode){
+        return session.selectList("corpCode.searchbystockcode", corpCode);
+    }
+
 
 
 }
