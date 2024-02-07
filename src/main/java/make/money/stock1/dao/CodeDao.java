@@ -21,14 +21,17 @@ public class CodeDao {
     }
 
     public List<CorpCode> searchByCorpCode(CorpCode corpCode){
+        System.out.println("a" + corpCode);
         return session.selectList("corpCode.searchbycorpcode", corpCode);
     }
 
     public List<CorpCode> searchByCorpName(CorpCode corpCode){
+        System.out.println("b" + corpCode);
         return session.selectList("corpCode.searchbycorpname", corpCode);
     }
 
     public List<CorpCode> searchByStockCode(CorpCode corpCode){
+        System.out.println("c" + corpCode);
         return session.selectList("corpCode.searchbystockcode", corpCode);
     }
 

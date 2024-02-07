@@ -8,15 +8,30 @@
     </insert>
 
     <select id="searchbycorpcode" parameterType="corpCode" resultType="corpCode">
-        select * from listedcorp where corp_code like '%' || #{corp_code} || '%'
+        select * from listedcorp
+        <where>
+            <if test="corp_code != null and corp_code != ''">
+                corp_code like concat('%',#{corp_code},'%')
+            </if>
+        </where>
     </select>
 
     <select id="searchbycorpname" parameterType="corpCode" resultType="corpCode">
-        select * from listedcorp where corp_code like '%' || #{corp_name} || '%'
+        select * from listedcorp
+        <where>
+            <if test="corp_name != null and corp_name != ''">
+                corp_name like concat('%',#{corp_name},'%')
+            </if>
+        </where>
     </select>
 
     <select id="searchbystockcode" parameterType="corpCode" resultType="corpCode">
-        select * from listedcorp where corp_code like '%' || #{stock_code} || '%'
+        select * from listedcorp
+        <where>
+            <if test="stock_code != null and stock_code != ''">
+                stock_code like concat('%',#{stock_code},'%')
+            </if>
+        </where>
     </select>
 
 

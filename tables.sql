@@ -25,6 +25,10 @@ create table corpcode(
 );
 
 select * from corpcode;
+explain select * from corpcode;
+
+alter table corpcode add unique index idx_corp_code (corp_code);
+
 
 create view listedcorp as
     (select * from corpcode where stock_code <> 0);
