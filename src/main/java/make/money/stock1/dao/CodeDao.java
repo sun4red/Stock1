@@ -35,6 +35,7 @@ public class CodeDao {
         return session.selectList("corpCode.searchbystockcode", corpCode);
     }
 
-
-
+    public CorpCode getCorpCodeByStockCode(CorpCode corpCode) {
+        return session.selectOne("corpCode.getcorpcodebystockcode", corpCode);
+    }
 }

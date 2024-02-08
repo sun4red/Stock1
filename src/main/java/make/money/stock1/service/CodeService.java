@@ -32,4 +32,8 @@ public class CodeService {
 
     }
 
+    public CorpCode getCorpCodeByStockCode(CorpCode corpCode){
+        return codeDao.getCorpCodeByStockCode(corpCode);
+    }
+
 }

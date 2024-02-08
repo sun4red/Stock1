@@ -33,6 +33,12 @@
             </if>
         </where>
     </select>
+    
+    <select id="getcorpcodebystockcode" parameterType="corpCode" resultType="corpCode">
+        select * from listedcorp where stock_code = #{stock_code}
+
+    </select>
+
 
 
 </mapper>
