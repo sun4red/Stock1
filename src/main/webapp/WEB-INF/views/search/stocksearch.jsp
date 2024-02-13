@@ -5,6 +5,9 @@
 </head>
 <body>
 
+<a href = "/">홈</a><br>
+
+
 <select name="condition">
     <option value="default">조회조건</option>
     <option value="corp_name">회사명</option>
@@ -47,7 +50,7 @@
                             + "</td><td>"
                             + corpCode.corp_name
                             + "</td><td>"
-                            + corpCode.stock_code
+                            + "<a href = stockinfo?stock_code=" + corpCode.stock_code + ">" + corpCode.stock_code + "</a>"
                             + "</td></tr>";
 
                     });

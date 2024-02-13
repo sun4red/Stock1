@@ -1,5 +1,6 @@
 package make.money.stock1.controller;
 
+import make.money.stock1.EnvReader;
 import make.money.stock1.model.CorpCode;
 import make.money.stock1.service.CodeService;
 import org.springframework.stereotype.Controller;
@@ -34,6 +35,10 @@ public class StockInfoController {
             return "redirect:/";
         }
         model.addAttribute("stockinfo", stockInfo);
+
+        EnvReader envReader = new EnvReader();
+        String StockPriceInfoKey = envReader.readEnv().get("StockPriceInfoKey");
+        model.addAttribute("serviceKey", StockPriceInfoKey);
 
         return "info/stockinfo";
     }
