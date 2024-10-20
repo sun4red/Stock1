@@ -1,38 +1,42 @@
-//package make.money.stock1.controller;
-//
-//import make.money.stock1.CorpCodeParser;
-//import make.money.stock1.EnvReader;
-//import make.money.stock1.model.CorpCode;
-//import make.money.stock1.model.StockPriceInfo;
-//import make.money.stock1.service.CodeService;
-//import org.springframework.beans.factory.annotation.Autowired;
-//import org.springframework.stereotype.Controller;
-//import org.springframework.ui.Model;
-//import org.springframework.web.bind.annotation.GetMapping;
-//import org.springframework.web.bind.annotation.RequestMapping;
-//import org.springframework.web.bind.annotation.ResponseBody;
-//
-//import java.util.Date;
-//import java.util.List;
-//
-//@Controller
-//public class TestController {
-//
-//
-//@Autowired
+package make.money.stock1.controller;
+
+
+import make.money.stock1.EnvReader;
+
+import make.money.stock1.service.TestService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import java.util.Date;
+import java.util.List;
+
+@Controller
+public class TestController {
+
+
+@Autowired
 //    private final CodeService codeService;
-//
+    private final TestService testService;
+
+    public TestController(TestService testService) {
+        this.testService = testService;
+    }
+
 //    public TestController(CodeService codeService) {
 //        this.codeService = codeService;
 //    }
-//
-//    @RequestMapping("/")
-//    public String testPage() {
-//
-//
-//
-//        return "test/test";
-//    }
+
+    @RequestMapping("/")
+    public String testPage() {
+
+
+
+        return "test/test";
+    }
 //
 //    @RequestMapping("list")
 //    public String listPage(Model model) {
@@ -90,5 +94,5 @@
 //
 //        return spi;
 //    }
-//
-//}
+
+}
