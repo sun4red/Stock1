@@ -37,6 +37,14 @@ public class TestController {
 
         return "test/test";
     }
+
+    @RequestMapping("callDart")
+    public String callDartPage(){
+        return "dart/call";
+    }
+
+
+
 //
 //    @RequestMapping("list")
 //    public String listPage(Model model) {
