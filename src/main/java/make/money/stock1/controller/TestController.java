@@ -1,6 +1,7 @@
 package make.money.stock1.controller;
 
 
+import jakarta.servlet.http.HttpServletRequest;
 import make.money.stock1.EnvReader;
 
 import make.money.stock1.service.TestService;
@@ -11,6 +12,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import java.net.http.HttpRequest;
 import java.util.Date;
 import java.util.List;
 
@@ -43,6 +45,53 @@ public class TestController {
         return "dart/call";
     }
 
+
+    @RequestMapping("dartReports")
+    public String dartReports(HttpServletRequest request, Model model){
+
+
+
+
+        return "";
+    }
+
+
+
+//    @WebServlet("/ReportServlet")
+//    public class ReportServlet extends HttpServlet {
+//        protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//            // 폼 데이터 수집
+//            String crtfcKey = request.getParameter("crtfcKey");
+//            String corpCode = request.getParameter("corpCode");
+//            String bgnDe = request.getParameter("bgnDe");
+//            String endDe = request.getParameter("endDe");
+//            String lastReprtAt = request.getParameter("lastReprtAt");
+//            String pblntfTy = request.getParameter("pblntfTy");
+//            String pblntfDetailTy = request.getParameter("pblntfDetailTy");
+//            String corpCls = request.getParameter("corpCls");
+//            String sort = request.getParameter("sort");
+//            String sortMth = request.getParameter("sortMth");
+//            String pageNo = request.getParameter("pageNo");
+//            String pageCount = request.getParameter("pageCount");
+//
+//            // DTO 객체 생성 및 데이터 설정
+//            ReportQueryDTO reportQuery = new ReportQueryDTO();
+//            reportQuery.setCrtfcKey(crtfcKey);
+//            reportQuery.setCorpCode(corpCode);
+//            reportQuery.setBgnDe(bgnDe);
+//            reportQuery.setEndDe(endDe);
+//            reportQuery.setLastReprtAt(lastReprtAt);
+//            reportQuery.setPblntfTy(pblntfTy);
+//            reportQuery.setPblntfDetailTy(pblntfDetailTy);
+//            reportQuery.setCorpCls(corpCls);
+//            reportQuery.setSort(sort);
+//            reportQuery.setSortMth(sortMth);
+//            reportQuery.setPageNo(pageNo);
+//            reportQuery.setPageCount(pageCount);
+//
+//            // 이후 필요한 비즈니스 로직 처리
+//        }
+//    }
 
 
 //
