@@ -4,6 +4,9 @@ package make.money.stock1.controller;
 import jakarta.servlet.http.HttpServletRequest;
 import make.money.stock1.EnvReader;
 
+import make.money.stock1.api.ApiDart;
+import make.money.stock1.api.data.DartReportRequest;
+import make.money.stock1.model.ApiResponse;
 import make.money.stock1.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -11,6 +14,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.client.RestTemplate;
 
 import java.net.http.HttpRequest;
 import java.util.Date;
@@ -20,7 +24,7 @@ import java.util.List;
 public class TestController {
 
 
-@Autowired
+    @Autowired
 //    private final CodeService codeService;
     private final TestService testService;
 
@@ -36,26 +40,61 @@ public class TestController {
     public String testPage() {
 
 
-
         return "test/test";
     }
 
+
     @RequestMapping("callDart")
-    public String callDartPage(){
+    public String callDartPage(Model model) {
+
+        EnvReader envReader = new EnvReader();
+        String crtfc_key = envReader.readEnv().get("OpenDartKey");
+        model.addAttribute("crtfc_key", crtfc_key);
+
+
         return "dart/call";
     }
 
 
     @RequestMapping("dartReports")
-    public String dartReports(HttpServletRequest request, Model model){
+    public String dartReports(HttpServletRequest request, Model model) {
+
+        EnvReader envReader = new EnvReader();
+        String crtfc_key = envReader.readEnv().get("OpenDartKey");
+        model.addAttribute("crtfc_key", crtfc_key);
+
+        String url = "https://opendart.fss.or.kr/api/list.json" +
+                "?crtfc_key=" + crtfc_key +
+                "&corp_code=00938721";
+
+        RestTemplate restTemplate = new RestTemplate();
+        ApiResponse response = restTemplate.getForObject(url, ApiResponse.class);
+
+        System.out.println(response);
+
+        System.out.println(response.getStatus());
+
+//        if (response != null && "success".equals(response.getStatus())){
+//
+//        }*
 
 
-
-
-        return "";
+        return "redirect:" + url;
     }
 
+@RequestMapping("testApiCall")
+public String testApiCall()
+{
+    DartReportRequest dartReportRequest = new DartReportRequest();
 
+dartReportRequest.setCorp_code("00938721");
+
+    ApiDart apiDart = new ApiDart();
+    apiDart.dartReports(dartReportRequest);
+
+
+    return "redirect:/";
+}
 
 //    @WebServlet("/ReportServlet")
 //    public class ReportServlet extends HttpServlet {

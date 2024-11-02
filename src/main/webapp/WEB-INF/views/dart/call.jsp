@@ -2,6 +2,55 @@
 <html>
 <head>
 
+<%--자바 스크립트 텍스트는 '' 작은따옴표 안에 텍스트 집어넣기 --%>
+    <script>
+        alert('zzz');
+        function reportList() {
+
+            const apiUrl = 'https://opendart.fss.or.kr/api/list.json';
+
+            const crtfc_key = '${crtfc_key}';
+            const corp_code = document.getElementById('corpCode').value
+
+
+            <%--const data = {--%>
+            <%--            // crtfc_key: document.getElementById('crtfcKey').value,--%>
+            <%--            crtfc_key: '${crtfc_key}',--%>
+            <%--            corp_code: document.getElementById('corpCode').value,--%>
+            <%--            bgn_de: document.getElementById('bgnDe').value,--%>
+            <%--            end_de: document.getElementById('endDe').value,--%>
+            <%--            last_reprt_at: document.getElementById('lastReprtAt').value,--%>
+            <%--            pblntf_ty: document.getElementById('pblntfTy').value,--%>
+            <%--            pblntf_detail_ty: document.getElementById('pblntfDetailTy').value,--%>
+            <%--            corp_cls: document.getElementById('corpCls').value,--%>
+            <%--            sort: document.getElementById('sort').value,--%>
+            <%--            sort_mth: document.getElementById('sortMth').value,--%>
+            <%--            page_no: document.getElementById('pageNo').value,--%>
+            <%--            page_count: document.getElementById('pageCount').value--%>
+            <%--        };--%>
+
+
+                    <%--const executeUrl = `https://opendart.fss.or.kr/api/list.json?${queryParams}`;--%>
+
+            const executeUrl = apiUrl + '?' + 'crtfc_key=' + crtfc_key + '&' + 'corp_code=' +  corp_code;
+
+            fetch(executeUrl)
+                .then(response => response.json())
+                .then(response => {
+                    console.log("API 응답:", response);
+                    alert("API 요청 성공");
+                })
+                .catch(error => {
+                    console.error("API 요청 실패:", error);
+                });
+
+            alert('${crtfc_key}');
+            console.log(executeUrl)
+            console.log('reportList() 호출 완료');
+        }
+
+        // prompt(requestParams)
+    </script>
 </head>
 <body>
 dart 공시 정보 검색
@@ -32,7 +81,17 @@ API 인증키: <input type="text" id="crtfcKey" placeholder="API 인증키"><br>
 정렬방법: <input type="text" id="sortMth" placeholder="정렬방법"><br>
 페이지 번호: <input type="text" id="pageNo" placeholder="페이지 번호"><br>
 페이지 별 건수: <input type="text" id="pageCount" placeholder="페이지 별 건수"><br>
-<button onclick="sendData()">API 요청하기</button>
+<button onclick="reportList()">API 요청하기</button>
+
+
+
+테스트 회사
+필옵틱스
+고유번호 : 00938721
+
+
+
+
 
 <%--<h3>API 응답 결과</h3>--%>
 <%--<pre id="apiResponse"></pre>--%>
@@ -76,6 +135,7 @@ API 인증키: <input type="text" id="crtfcKey" placeholder="API 인증키"><br>
 <%--            });--%>
 <%--    }--%>
 <%--</script>--%>
+
 
 </body>
 </html>
