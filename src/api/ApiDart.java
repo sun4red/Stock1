@@ -73,10 +73,10 @@ public class ApiDart {
                 }
 
                 // 정렬 sort
-                if (dartReportRequest.getBgn_de() != null && !dartReportRequest.getBgn_de().isEmpty()) {
+                if (dartReportRequest.getSort() != null && !dartReportRequest.getSort().isEmpty()) {
                         requestUrl = requestUrl
                                         + "&sort="
-                                        + dartReportRequest.getBgn_de();
+                                        + dartReportRequest.getSort();
                 }
 
                 // 정렬방법 sort_mth
@@ -99,7 +99,8 @@ public class ApiDart {
                                         + "&page_count="
                                         + dartReportRequest.getPage_count();
                 }
-
+                
+                // System.out.println(requestUrl);
                 return requestUrl;
         }
 

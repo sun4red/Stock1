@@ -29,6 +29,11 @@ public class Main {
         DartReportRequest drr = new DartReportRequest();
 
         drr.setCorp_code("00938721");
+        drr.setBgn_de("20240101");
+        // drr.setEnd_de("20241201");
+        // drr.setSort("rpt");
+        // drr.setSort_mth("desc");
+        drr.setPblntf_ty("A");
 
         System.out.println(drr);
 
@@ -51,7 +56,7 @@ public class Main {
 
 
         // 파일 경로 설정
-        String filePath = "output2.json";
+        String filePath = "data/output2.json";
 
         SaveJSON saveJson = SaveJSON.getInstance();
         saveJson.save(json, filePath);

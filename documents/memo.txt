@@ -19,3 +19,10 @@ https://okky.kr/questions/1509332
 
 
 api 요청, json데이터로 수신, 데이터와 동일한 구조로 java객체 생성, 사용
+
+api 요청 -> String으로 수신(?)
+1) json으로 저장
+2) xml로 저장
+
+라이브러리 교체 필요.
+jackson라이브러리.
