@@ -13,8 +13,8 @@ public class EnvReader {
 
         // 프로젝트 시작 파일의 클래스 파일이 위치한 디렉토리를 기준으로 상대 경로 계산
         String classFilePath = EnvReader.class.getProtectionDomain().getCodeSource().getLocation().getPath();
-        String projectDirectory = classFilePath.substring(0, classFilePath.indexOf("/Stock1/")); // 프로젝트 디렉토리
-        String envFilePath = projectDirectory + "/Stock1/.env"; // 프로젝트 디렉토리 내의 .env 파일
+        String projectDirectory = classFilePath.substring(0, classFilePath.indexOf("/")); // 프로젝트 디렉토리
+        String envFilePath = projectDirectory + ".env"; // 프로젝트 디렉토리 내의 .env 파일
 
 
         Map<String, String> envMap = new HashMap<>();
