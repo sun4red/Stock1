@@ -1,0 +1,630 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<result>
+    <script/>
+    <status>000</status>
+    <message>정상</message>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>유동자산</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>236,415,451,698</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>296,218,125,991</frmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>비유동자산</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>166,677,468,608</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>154,693,243,950</frmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자산총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>403,092,920,306</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>450,911,369,941</frmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>유동부채</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>167,152,476,693</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>207,355,199,548</frmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>비유동부채</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>8,054,443,029</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>11,649,734,122</frmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>부채총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>175,206,919,722</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>219,004,933,670</frmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자본금</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>11,810,531,000</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>11,728,122,000</frmtrm_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>이익잉여금</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>8,228,471,983</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>49,815,873,831</frmtrm_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자본총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>227,886,000,584</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>231,906,436,271</frmtrm_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>매출액</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>70,525,638,541</thstrm_amount>
+        <thstrm_add_amount>261,658,191,211</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>226,282,120,348</frmtrm_add_amount>
+        <frmtrm_amount>22,043,974,669</frmtrm_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>영업이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-2,801,537,753</thstrm_amount>
+        <thstrm_add_amount>1,682,736,645</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>3,944,429,381</frmtrm_add_amount>
+        <frmtrm_amount>-6,607,983,350</frmtrm_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>법인세차감전 순이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-3,959,185,458</thstrm_amount>
+        <thstrm_add_amount>1,343,433,750</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>-16,985,154,606</frmtrm_add_amount>
+        <frmtrm_amount>-8,027,194,180</frmtrm_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>당기순이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-3,256,903,021</thstrm_amount>
+        <thstrm_add_amount>2,011,641,632</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>-19,477,749,795</frmtrm_add_amount>
+        <frmtrm_amount>-8,204,484,510</frmtrm_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>당기순이익(손실)</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-3,256,903,021</thstrm_amount>
+        <thstrm_add_amount>2,011,641,632</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>-19,477,749,795</frmtrm_add_amount>
+        <frmtrm_amount>-8,204,484,510</frmtrm_amount>
+        <ord>61</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>CFS</fs_div>
+        <fs_nm>연결재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>총포괄손익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-3,449,094,324</thstrm_amount>
+        <thstrm_add_amount>2,131,301,737</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>-19,816,094,788</frmtrm_add_amount>
+        <frmtrm_amount>-8,229,291,241</frmtrm_amount>
+        <ord>63</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>유동자산</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>88,987,466,960</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>100,277,992,534</frmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>비유동자산</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>113,962,739,521</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>116,544,312,087</frmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자산총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>202,950,206,481</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>216,822,304,621</frmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>유동부채</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>99,623,363,030</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>97,341,316,080</frmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>비유동부채</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>2,513,900,555</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>4,343,941,727</frmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>부채총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>102,137,263,585</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>101,685,257,807</frmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자본금</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>11,810,531,000</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>11,728,122,000</frmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>이익잉여금</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>52,644,914,119</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>74,992,740,553</frmtrm_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_nm>자본총계</account_nm>
+        <thstrm_nm>제 17 기3분기말</thstrm_nm>
+        <thstrm_dt>2024.09.30 현재</thstrm_dt>
+        <thstrm_amount>100,812,942,896</thstrm_amount>
+        <frmtrm_nm>제 16 기말</frmtrm_nm>
+        <frmtrm_dt>2023.12.31 현재</frmtrm_dt>
+        <frmtrm_amount>115,137,046,814</frmtrm_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>매출액</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>14,517,155,673</thstrm_amount>
+        <thstrm_add_amount>53,826,521,436</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>92,443,356,787</frmtrm_add_amount>
+        <frmtrm_amount>7,780,817,596</frmtrm_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>영업이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-4,468,770,063</thstrm_amount>
+        <thstrm_add_amount>-8,464,124,768</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>-2,323,922,357</frmtrm_add_amount>
+        <frmtrm_amount>-3,038,225,874</frmtrm_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>법인세차감전 순이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-5,362,406,432</thstrm_amount>
+        <thstrm_add_amount>20,558,524,915</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>25,065,637,718</frmtrm_add_amount>
+        <frmtrm_amount>24,297,473,011</frmtrm_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>당기순이익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-4,189,926,456</thstrm_amount>
+        <thstrm_add_amount>16,830,032,757</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>23,587,510,198</frmtrm_add_amount>
+        <frmtrm_amount>22,715,148,361</frmtrm_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>당기순이익(손실)</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-4,189,926,456</thstrm_amount>
+        <thstrm_add_amount>16,830,032,757</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>23,587,510,198</frmtrm_add_amount>
+        <frmtrm_amount>22,715,148,361</frmtrm_amount>
+        <ord>62</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20241112000273</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2024</bsns_year>
+        <corp_code>00938721</corp_code>
+        <stock_code>161580</stock_code>
+        <fs_div>OFS</fs_div>
+        <fs_nm>재무제표</fs_nm>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_nm>총포괄손익</account_nm>
+        <thstrm_nm>제 17 기3분기</thstrm_nm>
+        <thstrm_dt>2024.01.01 ~ 2024.09.30</thstrm_dt>
+        <thstrm_amount>-4,189,926,456</thstrm_amount>
+        <thstrm_add_amount>16,830,032,757</thstrm_add_amount>
+        <frmtrm_nm>제 16 기3분기</frmtrm_nm>
+        <frmtrm_dt>2023.01.01 ~ 2023.09.30</frmtrm_dt>
+        <frmtrm_add_amount>23,587,510,198</frmtrm_add_amount>
+        <frmtrm_amount>22,715,148,361</frmtrm_amount>
+        <ord>64</ord>
+        <currency>KRW</currency>
+    </list>
+</result>

@@ -19,8 +19,9 @@ import api.*;
 // import java.net.http.HttpRequest;
 // import java.net.http.HttpResponse;
 import api.data.*;
+import http.ApiClient;
 import http.JSONByApi;
-import utility.SaveJSON;
+import utility.SaveData;
 
 public class Main {
 
@@ -45,22 +46,26 @@ public class Main {
 
         // System.out.println(urlString);
 
-        JSONByApi jsonByApi = new JSONByApi();
+        // JSONByApi jsonByApi = new JSONByApi();
 
-        JSONObject json = new JSONObject();
+        // JSONObject json = new JSONObject();
 
-        json = jsonByApi.getJSON(urlString);
+        // json = jsonByApi.getJSON(urlString);
 
-        System.out.println(json);
-
-
+        // System.out.println(json);
 
         // 파일 경로 설정
-        String filePath = "data/output2.json";
+        // String filePath = "data/output3.json";
+        String filePath = "data/output3.xml";
 
-        SaveJSON saveJson = SaveJSON.getInstance();
-        saveJson.save(json, filePath);
+        ApiClient apiClient = new ApiClient();
+        String data = apiClient.getResponse(urlString);
 
+        SaveData saveData = SaveData.getInstance();
+        // saveJson.saveJson(json, filePath);
+
+        // saveData.saveJson(data, filePath);
+        saveData.saveXml(data, filePath);
 
     }
 }

@@ -13,7 +13,8 @@ public class ApiDart {
         // 공시정보
         public String dartReports(DartReportRequest dartReportRequest) {
 
-                String apiUrl = "https://opendart.fss.or.kr/api/list.json";
+                // String apiUrl = "https://opendart.fss.or.kr/api/list.json";
+                String apiUrl = "https://opendart.fss.or.kr/api/list.xml";
 
                 // API 인증키 crtfc_key
                 String requestUrl = apiUrl
