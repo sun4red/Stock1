@@ -1,0 +1,2707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <status>000</status>
+    <message>정상</message>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_CurrentAssets</account_id>
+        <account_nm>유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>80039455000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>70155189000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>69981128000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_CashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2607957000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2763768000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3778371000000</bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ShortTermDepositsNotClassifiedAsCashEquivalents</account_id>
+        <account_nm>단기금융상품</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>34113871000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>25510064000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>30170656000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ShortTermTradeReceivable</account_id>
+        <account_nm>매출채권</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>24933267000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>27881777000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>23514012000000</bfefrmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ShortTermOtherReceivables</account_id>
+        <account_nm>미수금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1515079000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2201402000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2319782000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>선급금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>807262000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1097598000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>814300000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>선급비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2230628000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2281179000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2375520000000</bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_Inventories</account_id>
+        <account_nm>재고자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>12440951000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>7837144000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>5981634000000</bfefrmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentAssets</account_id>
+        <account_nm>기타유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1390440000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>582257000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>743163000000</bfefrmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners</account_id>
+        <account_nm>매각예정분류자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>283690000000</bfefrmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_NoncurrentAssets</account_id>
+        <account_nm>비유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>138981902000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>128086171000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>104821831000000</bfefrmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermDepositsNotClassifiedAsCashEquivalents</account_id>
+        <account_nm>장기매도가능금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>973353000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>913989000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1098565000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기손익-공정가치금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7413000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_InvestmentsInSubsidiariesJointVenturesAndAssociates</account_id>
+        <account_nm>종속기업, 관계기업 및 공동기업 투자</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>55959745000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>55671759000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>48743079000000</bfefrmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_PropertyPlantAndEquipment</account_id>
+        <account_nm>유형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>70602493000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>62816961000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>47228830000000</bfefrmtrm_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_InvestmentProperty</account_id>
+        <account_nm>무형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2901476000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2827035000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2891844000000</bfefrmtrm_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermPrepaidExpenses</account_id>
+        <account_nm>장기선급비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4108410000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>3031327000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3507399000000</bfefrmtrm_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_DepositsForSeveranceInsurance</account_id>
+        <account_nm>순확정급여자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>562356000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>811210000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>557091000000</bfefrmtrm_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_DeferredTaxAssets</account_id>
+        <account_nm>이연법인세자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>654456000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>586161000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>110239000000</bfefrmtrm_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherNonCurrentAssets</account_id>
+        <account_nm>기타비유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>3086988000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1368365000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>869360000000</bfefrmtrm_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_Assets</account_id>
+        <account_nm>자산총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>219021357000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>198241360000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>174802959000000</bfefrmtrm_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_CurrentLiabilities</account_id>
+        <account_nm>유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>43145053000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>44495084000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>34076122000000</bfefrmtrm_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>매입채무</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7315631000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>6398629000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>6162650000000</bfefrmtrm_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_ShorttermBorrowings</account_id>
+        <account_nm>단기차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>10353873000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>12229701000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>9061167000000</bfefrmtrm_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>미지급금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>8385752000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>9598654000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>7635740000000</bfefrmtrm_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>선수금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>214615000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>214007000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>200445000000</bfefrmtrm_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>예수금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>572702000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>500740000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>389528000000</bfefrmtrm_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>미지급비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>6129837000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>6657674000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>6284646000000</bfefrmtrm_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_PaymentsOfIncomeTaxesPayable</account_id>
+        <account_nm>미지급법인세</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7925887000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>6565781000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2055829000000</bfefrmtrm_amount>
+        <ord>31</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>유동성장기부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>5440000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>5201000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>5854000000</bfefrmtrm_amount>
+        <ord>32</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_CurrentProvisions</account_id>
+        <account_nm>충당부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2135314000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2273688000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2221717000000</bfefrmtrm_amount>
+        <ord>33</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentLiabilities</account_id>
+        <account_nm>기타유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>106002000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>51009000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>58546000000</bfefrmtrm_amount>
+        <ord>34</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_NoncurrentLiabilities</account_id>
+        <account_nm>비유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2888179000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2176501000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3180075000000</bfefrmtrm_amount>
+        <ord>35</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_BondsIssued</account_id>
+        <account_nm>사채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>43516000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>46808000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>58542000000</bfefrmtrm_amount>
+        <ord>36</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermOtherPayablesGross</account_id>
+        <account_nm>장기미지급금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2472416000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1750379000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2808460000000</bfefrmtrm_amount>
+        <ord>37</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermTradeAndOtherNonCurrentPayables</account_id>
+        <account_nm>장기충당부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>372217000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>379201000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>312467000000</bfefrmtrm_amount>
+        <ord>38</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherNonCurrentLiabilities</account_id>
+        <account_nm>기타비유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>30000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>113000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>606000000</bfefrmtrm_amount>
+        <ord>39</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_Liabilities</account_id>
+        <account_nm>부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>46033232000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>46671585000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>37256197000000</bfefrmtrm_amount>
+        <ord>40</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_IssuedCapital</account_id>
+        <account_nm>자본금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>897514000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>897514000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>897514000000</bfefrmtrm_amount>
+        <ord>42</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_IssuedCapitalOfPreferredStock</account_id>
+        <account_nm>우선주자본금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>119467000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>119467000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>119467000000</bfefrmtrm_amount>
+        <ord>43</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_IssuedCapitalOfCommonStock</account_id>
+        <account_nm>보통주자본금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>778047000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>778047000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>778047000000</bfefrmtrm_amount>
+        <ord>44</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_SharePremium</account_id>
+        <account_nm>주식발행초과금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4403893000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4403893000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>4403893000000</bfefrmtrm_amount>
+        <ord>45</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_RetainedEarnings</account_id>
+        <account_nm>이익잉여금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>166555532000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>150928724000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>140747574000000</bfefrmtrm_amount>
+        <ord>46</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ElementsOfOtherStockholdersEquity</account_id>
+        <account_nm>기타자본항목</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1131186000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-4660356000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-8502219000000</bfefrmtrm_amount>
+        <ord>47</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>자본총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>172988125000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>151569775000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>137546762000000</bfefrmtrm_amount>
+        <ord>48</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs_EquityAndLiabilities</account_id>
+        <account_nm>자본과부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>219021357000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>198241360000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>174802959000000</bfefrmtrm_amount>
+        <ord>49</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_Revenue</account_id>
+        <account_nm>수익(매출액)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>170381870000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>161915007000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>133947204000000</bfefrmtrm_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_CostOfSales</account_id>
+        <account_nm>매출원가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>101666506000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>101399657000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>97290644000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_GrossProfit</account_id>
+        <account_nm>매출총이익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>68715364000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>60515350000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>36656560000000</bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>dart_TotalSellingGeneralAdministrativeExpenses</account_id>
+        <account_nm>판매비와관리비</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>25015913000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>25658259000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>23009124000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>dart_OperatingIncomeLoss</account_id>
+        <account_nm>영업이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>43699451000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>34857091000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>13647436000000</bfefrmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>dart_OtherGains</account_id>
+        <account_nm>기타수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>972145000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2767967000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2185600000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>dart_OtherLosses</account_id>
+        <account_nm>기타비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>504562000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1065014000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1289594000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_FinanceIncome</account_id>
+        <account_nm>금융수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>3737494000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4075602000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>5803751000000</bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>금융비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>3505673000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4102094000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>5622119000000</bfefrmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_ProfitLossBeforeTax</account_id>
+        <account_nm>법인세비용차감전순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>44398855000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>36533552000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>14725074000000</bfefrmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_IncomeTaxExpenseContinuingOperations</account_id>
+        <account_nm>법인세비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>11583728000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>7732715000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3145325000000</bfefrmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_ProfitLossFromContinuingOperations</account_id>
+        <account_nm>계속영업이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_BasicEarningsLossPerShare</account_id>
+        <account_nm>기본주당이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4830</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4178</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1632</bfefrmtrm_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>IS</sj_div>
+        <sj_nm>손익계산서</sj_nm>
+        <account_id>ifrs_DilutedEarningsLossPerShare</account_id>
+        <account_nm>희석주당이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4830</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4178</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1632</bfefrmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs_OtherComprehensiveIncome</account_id>
+        <account_nm>기타포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-378321000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>319724000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>308057000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax</account_id>
+        <account_nm>후속적으로 당기손익으로 재분류되지 않는 포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-378321000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>349950000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>729634000000</bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산평가손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-88340000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>순확정급여자산 재측정요소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-289981000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>349950000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>729634000000</bfefrmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax</account_id>
+        <account_nm>후속적으로 당기손익으로 재분류되는 포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-30226000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-421577000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax</account_id>
+        <account_nm>매도가능금융자산평가손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-30226000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-421577000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs_ComprehensiveIncome</account_id>
+        <account_nm>총포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32436806000000</thstrm_amount>
+        <thstrm_add_amount></thstrm_add_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>29120561000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11887806000000</bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_CashFlowsFromUsedInOperatingActivities</account_id>
+        <account_nm>영업활동 현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>44341217000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>38906190000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>23984804000000</bfefrmtrm_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProfitLossForStatementOfCashFlows</account_id>
+        <account_nm>영업에서 창출된 현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>53596311000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>41350471000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>24901464000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기순이익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>조정</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>27095149000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>18012976000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>14910093000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>영업활동으로 인한 자산부채의 변동</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-6313965000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-5463342000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-1588378000000</bfefrmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_InterestReceivedClassifiedAsOperatingActivities</account_id>
+        <account_nm>이자의 수취</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>459074000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>491501000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>622118000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_InterestPaidClassifiedAsOperatingActivities</account_id>
+        <account_nm>이자의 지급</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>343270000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>265364000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>208010000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_DividendsPaidClassifiedAsOperatingActivities</account_id>
+        <account_nm>배당금 수입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-779567000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-1118779000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-903758000000</bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities</account_id>
+        <account_nm>법인세 납부액</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>10150465000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>3789197000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2234526000000</bfefrmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_CashFlowsFromUsedInInvestingActivities</account_id>
+        <account_nm>투자활동 현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-31678548000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-28118806000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-14240450000000</bfefrmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>단기금융상품의 순감소(증가)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-7203807000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2960592000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-1407068000000</bfefrmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets</account_id>
+        <account_nm>단기매도가능금융자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3010003000000</bfefrmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfLongTermFinancialInstruments</account_id>
+        <account_nm>장기금융상품의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1700000000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>700000000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfLongTermFinancialInstruments</account_id>
+        <account_nm>장기금융상품의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1860000000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>500000000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1700000000000</bfefrmtrm_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfNonCurrentAvailableForSaleFinancialAssets</account_id>
+        <account_nm>장기매도가능금융자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>98265000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>692547000000</bfefrmtrm_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfNonCurrentAvailableForSaleFinancialAssets</account_id>
+        <account_nm>장기매도가능금융자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>163765000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>477744000000</bfefrmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7345000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-204055000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기손익-공정가치금융자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7421000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기손익-공정가치금융자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-1776000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>종속기업, 관계기업 및 공동기업 투자의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>25846000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>1438362000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>2416678000000</bfefrmtrm_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>종속기업, 관계기업 및 공동기업 투자의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-520660000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-7492843000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-4648008000000</bfefrmtrm_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>340558000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>244033000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>335288000000</bfefrmtrm_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>21387378000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>25641229000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>12161084000000</bfefrmtrm_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities</account_id>
+        <account_nm>무형자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>706000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>456000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>6357000000</bfefrmtrm_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities</account_id>
+        <account_nm>무형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>880032000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>843096000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1046676000000</bfefrmtrm_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>현금의 기타유출입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-2716000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>80419000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>39257000000</bfefrmtrm_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_CashFlowsFromUsedInFinancingActivities</account_id>
+        <account_nm>재무활동 현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-12818480000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-11801987000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-9037006000000</bfefrmtrm_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>단기차입금의 순증가(감소)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-1796186000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>3300611000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>1737871000000</bfefrmtrm_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_AcquisitionOfTreasuryShares</account_id>
+        <account_nm>자기주식의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>875111000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>8350424000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>7707938000000</bfefrmtrm_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_RepaymentsOfBonds</account_id>
+        <account_nm>사채 및 장기차입금의 상환</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>5357000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>6043000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>5860000000</bfefrmtrm_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_DividendsPaidClassifiedAsFinancingActivities</account_id>
+        <account_nm>배당금 지급</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>10141826000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>6746131000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3061079000000</bfefrmtrm_amount>
+        <ord>31</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents</account_id>
+        <account_nm>외화환산으로 인한 현금의 변동</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>8063000000</bfefrmtrm_amount>
+        <ord>32</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs_IncreaseDecreaseInCashAndCashEquivalents</account_id>
+        <account_nm>현금 및 현금성자산의 증가(감소)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-155811000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-1014603000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>715411000000</bfefrmtrm_amount>
+        <ord>33</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtBeginningOfPeriodCf</account_id>
+        <account_nm>기초 현금 및 현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2763768000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>3778371000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3062960000000</bfefrmtrm_amount>
+        <ord>34</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtEndOfPeriodCf</account_id>
+        <account_nm>기말 현금 및 현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>2607957000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>2763768000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>3778371000000</bfefrmtrm_amount>
+        <ord>35</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|주식발행초과금</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4403893000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4403893000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>4403893000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>151569775000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>137546762000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>136428255000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-4660356000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-8502219000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-12526126000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|매각예정분류기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>23797000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>150928724000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>140747574000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>143629177000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>897514000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>897514000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>897514000000</bfefrmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies</account_id>
+        <account_nm>회계정책변경누적효과</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-61021000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies</account_id>
+        <account_nm>회계정책변경누적효과</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>61021000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>자본 [member]|매각예정분류기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>23797000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>151569775000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>137546762000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>136428255000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>897514000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>897514000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>897514000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>자본 [member]|주식발행초과금</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4403893000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4403893000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>4403893000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>150989745000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>140747574000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>143629177000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>수정후 기초자본</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-4721377000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-8502219000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-12526126000000</bfefrmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>32815127000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>28800837000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11579749000000</bfefrmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>매도가능금융자산평가손익</account_nm>
+        <account_detail>자본 [member]|매각예정분류기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-23797000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>매도가능금융자산평가손익</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-30226000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-421577000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>매도가능금융자산평가손익</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-30226000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-397780000000</bfefrmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산평가손익</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-2697000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산평가손익</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-85643000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타포괄손익-공정가치금융자산평가손익</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-88340000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount></bfefrmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>순확정급여자산 재측정요소</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-289981000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>349950000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>729634000000</bfefrmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>순확정급여자산 재측정요소</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-289981000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>349950000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>729634000000</bfefrmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>배당</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-10143345000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-6747124000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-3061361000000</bfefrmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>배당</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-10143345000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-6747124000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-3061361000000</bfefrmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>자기주식의 취득</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-875111000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-8350424000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-7707938000000</bfefrmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>자기주식의 취득</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-875111000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-8350424000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-7707938000000</bfefrmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>자기주식의 소각</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>7103298000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>11872563000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>11399991000000</bfefrmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>자기주식의 소각</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>-7103298000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-11872563000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-11399991000000</bfefrmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|주식발행초과금</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>4403893000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>4403893000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>4403893000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>897514000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>897514000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>897514000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>166555532000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>150928724000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>140747574000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>별도재무제표 [member]</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>172988125000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>151569775000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>137546762000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20190401004781</rcept_no>
+        <reprt_code>11011</reprt_code>
+        <bsns_year>2018</bsns_year>
+        <corp_code>00126380</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|기타자본항목</account_detail>
+        <thstrm_nm>제 50 기</thstrm_nm>
+        <thstrm_amount>1131186000000</thstrm_amount>
+        <frmtrm_nm>제 49 기</frmtrm_nm>
+        <frmtrm_amount>-4660356000000</frmtrm_amount>
+        <bfefrmtrm_nm>제 48 기</bfefrmtrm_nm>
+        <bfefrmtrm_amount>-8502219000000</bfefrmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+</result>

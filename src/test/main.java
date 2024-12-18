@@ -21,6 +21,7 @@ import api.*;
 import api.data.*;
 import http.ApiClient;
 import http.JSONByApi;
+import utility.CreateFilePath;
 import utility.SaveData;
 
 public class Main {
@@ -65,6 +66,21 @@ public class Main {
         // saveJson.saveJson(json, filePath);
 
         // saveData.saveJson(data, filePath);
+        saveData.saveXml(data, filePath);
+
+        FnlttSinglAcntAll fnlttSinglAcntAll = new FnlttSinglAcntAll();
+        fnlttSinglAcntAll.setBsns_year("2023");
+        fnlttSinglAcntAll.setCorp_code("00938721");
+        fnlttSinglAcntAll.setFs_div("CFS");
+        fnlttSinglAcntAll.setReprt_code("11013");
+
+        System.out.println(fnlttSinglAcntAll);
+
+        CreateFilePath createFilePath = new CreateFilePath();
+
+        urlString = ad.fnlttSinglAcntAll(fnlttSinglAcntAll);
+        filePath = createFilePath.fnlttSinglAcntAll(fnlttSinglAcntAll, "xml");
+        data = apiClient.getResponse(urlString);
         saveData.saveXml(data, filePath);
 
     }

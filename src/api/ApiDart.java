@@ -3,10 +3,11 @@ package api;
 import java.util.Map;
 
 import api.data.DartReportRequest;
+import api.data.FnlttSinglAcntAll;
 import utility.EnvReader;
 
 public class ApiDart {
-        
+
         EnvReader envReader = new EnvReader();
         private final String crtfc_key = EnvReader.readEnv().get("OpenDartKey");
 
@@ -100,7 +101,7 @@ public class ApiDart {
                                         + "&page_count="
                                         + dartReportRequest.getPage_count();
                 }
-                
+
                 // System.out.println(requestUrl);
                 return requestUrl;
         }
@@ -110,5 +111,40 @@ public class ApiDart {
         // 공시서류원본파일
 
         // 고유번호
+
+        // 3. 정기보고서 재무정보
+        // 4) 단일회사 전체 재무제표
+
+        public String fnlttSinglAcntAll(FnlttSinglAcntAll fnlttSinglAcntAll) {
+
+                String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglAcntAll.xml";
+
+                String requestUrl = apiUrl
+                                + "?crtfc_key=" + crtfc_key;
+
+                if (fnlttSinglAcntAll.getCorp_code() != null && !fnlttSinglAcntAll.getCorp_code().isEmpty()) {
+                        requestUrl = requestUrl
+                                        + "&corp_code="
+                                        + fnlttSinglAcntAll.getCorp_code();
+                }
+                if (fnlttSinglAcntAll.getBsns_year() != null && !fnlttSinglAcntAll.getBsns_year().isEmpty()) {
+                        requestUrl = requestUrl
+                                        + "&bsns_year="
+                                        + fnlttSinglAcntAll.getBsns_year();
+                }
+                if (fnlttSinglAcntAll.getReprt_code() != null && !fnlttSinglAcntAll.getReprt_code().isEmpty()) {
+                        requestUrl = requestUrl
+                                        + "&reprt_code="
+                                        + fnlttSinglAcntAll.getReprt_code();
+                }
+                if (fnlttSinglAcntAll.getFs_div() != null && !fnlttSinglAcntAll.getFs_div().isEmpty()) {
+                        requestUrl = requestUrl
+                                        + "&fs_div="
+                                        + fnlttSinglAcntAll.getFs_div();
+                }
+
+                return requestUrl;
+
+        };
 
 }
