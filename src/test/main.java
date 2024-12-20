@@ -30,20 +30,20 @@ public class Main {
 
         DartReportRequest drr = new DartReportRequest();
 
-        drr.setCorp_code("00938721");
-        drr.setBgn_de("20240101");
-        // drr.setEnd_de("20241201");
-        // drr.setSort("rpt");
-        // drr.setSort_mth("desc");
-        drr.setPblntf_ty("A");
+        // drr.setCorp_code("00938721");
+        // drr.setBgn_de("20240101");
+        // // drr.setEnd_de("20241201");
+        // // drr.setSort("rpt");
+        // // drr.setSort_mth("desc");
+        // drr.setPblntf_ty("A");
 
-        System.out.println(drr);
+        // System.out.println(drr);
 
-        String urlString = "";
-        ApiDart ad = new ApiDart();
-        System.out.println(ad);
+        // String urlString = "";
+        // ApiDart ad = new ApiDart();
+        // System.out.println(ad);
 
-        urlString = ad.dartReports(drr);
+        // urlString = ad.dartReports(drr);
 
         // System.out.println(urlString);
 
@@ -57,31 +57,41 @@ public class Main {
 
         // 파일 경로 설정
         // String filePath = "data/output3.json";
-        String filePath = "data/output3.xml";
+        // String filePath = "data/output3.xml";
 
-        ApiClient apiClient = new ApiClient();
-        String data = apiClient.getResponse(urlString);
+        // ApiClient apiClient = new ApiClient();
+        // String data = apiClient.getResponse(urlString);
 
-        SaveData saveData = SaveData.getInstance();
-        // saveJson.saveJson(json, filePath);
+        // SaveData saveData = SaveData.getInstance();
+        // // saveJson.saveJson(json, filePath);
 
-        // saveData.saveJson(data, filePath);
-        saveData.saveXml(data, filePath);
+        // // saveData.saveJson(data, filePath);
+        // saveData.saveXml(data, filePath);
 
-        FnlttSinglAcntAll fnlttSinglAcntAll = new FnlttSinglAcntAll();
-        fnlttSinglAcntAll.setBsns_year("2023");
-        fnlttSinglAcntAll.setCorp_code("00938721");
-        fnlttSinglAcntAll.setFs_div("CFS");
-        fnlttSinglAcntAll.setReprt_code("11013");
+        // FnlttSinglAcntAll fnlttSinglAcntAll = new FnlttSinglAcntAll();
+        // fnlttSinglAcntAll.setBsns_year("2023");
+        // fnlttSinglAcntAll.setCorp_code("00938721");
+        // fnlttSinglAcntAll.setFs_div("CFS");
+        // fnlttSinglAcntAll.setReprt_code("11013");
 
-        System.out.println(fnlttSinglAcntAll);
+        // System.out.println(fnlttSinglAcntAll);
 
-        CreateFilePath createFilePath = new CreateFilePath();
+        // CreateFilePath createFilePath = new CreateFilePath();
 
-        urlString = ad.fnlttSinglAcntAll(fnlttSinglAcntAll);
-        filePath = createFilePath.fnlttSinglAcntAll(fnlttSinglAcntAll, "xml");
-        data = apiClient.getResponse(urlString);
-        saveData.saveXml(data, filePath);
+        // urlString = ad.fnlttSinglAcntAll(fnlttSinglAcntAll);
+        // filePath = createFilePath.fnlttSinglAcntAll(fnlttSinglAcntAll, "xml");
+        // data = apiClient.getResponse(urlString);
+        // saveData.saveXml(data, filePath);
 
+        GetData getData = new GetData();
+
+        int startYear = 2021;
+        int endYear = 2024;
+        String corp_code = "00938721";
+        String fs_div = "CFS";
+
+        int result = getData.fnlttSinglAcntAll(startYear, endYear, corp_code, fs_div, fs_div);
+
+        System.out.println(result);
     }
 }

@@ -1,5 +1,7 @@
 package utility;
 
+import java.io.File;
+
 import api.data.FnlttSinglAcntAll;
 
 public class CreateFilePath {
@@ -8,6 +10,11 @@ public class CreateFilePath {
 
     public String fnlttSinglAcntAll(FnlttSinglAcntAll fnlttSinglAcntAll, String extension) {
 
+        String subDir = fnlttSinglAcntAll.getCorp_code() + "/";
+        File fileDir = new File(dir + subDir);
+        if (!fileDir.exists()) {
+            fileDir.mkdirs();
+        }
         String filePath = "";
         String fileName = "";
 
@@ -32,7 +39,7 @@ public class CreateFilePath {
             // + "_" ;
         }
 
-        filePath = dir + fileName + "." + extension;
+        filePath = dir + subDir + fileName + "." + extension;
         // System.out.println(filePath);
 
         return filePath;
