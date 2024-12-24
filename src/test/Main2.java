@@ -1,47 +1,94 @@
 package test;
 
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.StringReader;
-import java.io.StringWriter;
+import java.util.ArrayList;
+import java.util.List;
 
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamReader;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 
-import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
-import api.model.MDartResult;
+import api.data.ReadData;
+import api.model.MDartCorpcode;
+import database.DBConnection;
+import database.dart.DBDartCorpcode;
 
 public class Main2 {
 
     public static void main(String[] args) {
 
- try {
-            // XMLStreamReader 생성
-            XMLInputFactory factory = XMLInputFactory.newInstance();
-            XMLStreamReader reader = factory.createXMLStreamReader(new FileInputStream(new File(filePath)));
+        // System.out.println("Current Directory: " + System.getProperty("user.dir"));
+        // File file = new File("data/testdata4.xml"); // XML 파일 경로
 
-            // XmlMapper 객체 생성
-            XmlMapper xmlMapper = new XmlMapper();
-            
-            // XMLStreamReader를 XmlMapper에 전달하여 MDartResult 객체로 읽기
-            MDartResult mDartResult = xmlMapper.readValue(reader, MDartResult.class);
+        // System.out.println(file);
 
-            // 결과 출력
-            mDartResult.getCorpcodeList().forEach(corp -> {
-                System.out.println("Corp Code: " + corp.getCorp_code());
-                System.out.println("Corp Name: " + corp.getCorp_name());
-                System.out.println("Stock Code: " + corp.getStock_code());
-                System.out.println("Modify Date: " + corp.getModify_date());
-            });
+        // if (file.exists()) {
+        // System.out.println("file exists");
 
-            reader.close();
+        // }
 
-        } catch (XMLStreamException | IOException e) {
-            e.printStackTrace();
-        }
+        // try {
+
+        // DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+        // DocumentBuilder builder = factory.newDocumentBuilder();
+
+        // // XML 파일을 파싱하여 Document 객체 생성
+        // Document document = builder.parse(file);
+        // document.getDocumentElement().normalize();
+
+        // System.out.println("Root element: " +
+        // document.getDocumentElement().getNodeName());
+
+        // // result 태그 안의 하위 요소들을 가져오기
+        // NodeList nodeList = document.getElementsByTagName("list");
+
+        // for (int i = 0; i < nodeList.getLength(); i++) {
+        // Node node = nodeList.item(i);
+
+        // if (node.getNodeType() == Node.ELEMENT_NODE) {
+        // Element element = (Element) node;
+
+        // // name, age, city 값 출력
+        // String corp_code =
+        // element.getElementsByTagName("corp_code").item(0).getTextContent();
+        // String corp_name =
+        // element.getElementsByTagName("corp_name").item(0).getTextContent();
+        // String stock_code =
+        // element.getElementsByTagName("stock_code").item(0).getTextContent();
+        // String modify_date =
+        // element.getElementsByTagName("modify_date").item(0).getTextContent();
+
+        // System.out.println("corp_code: " + corp_code);
+        // System.out.println("corp_name: " + corp_name);
+        // System.out.println("stock_code: " + stock_code);
+        // System.out.println("modify_date: " + modify_date);
+        // }
+        // }
+
+        // } catch (Exception e) {
+        // e.printStackTrace();
+        // }
+
+        // ReadData readData = new ReadData();
+
+        // List<MDartCorpcode> list = new ArrayList<>();
+        // list = readData.XmlCorpcodeList();
+
+        // System.out.println(list.size());
+
+        // for (int i = 0; i < list.size(); i++) {
+        //     DBConnection dbConnection = new DBConnection();
+            // dbConnection.insertDCorpCode(list.get(i));
+        // }
+
+        DBDartCorpcode dbDartCorpcode = new DBDartCorpcode();
+        List<MDartCorpcode> selectList = dbDartCorpcode.selectCorpcode();
+
+        System.out.println(selectList);
 
     }
 }

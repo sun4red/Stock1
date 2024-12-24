@@ -1,4 +1,4 @@
-package utility;
+package api.data;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;

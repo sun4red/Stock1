@@ -1,8 +1,6 @@
-package utility;
+package api.data;
 
 import java.io.File;
-
-import api.data.FnlttSinglAcntAll;
 
 public class CreateFilePath {
 
