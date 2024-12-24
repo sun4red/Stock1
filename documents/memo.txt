@@ -53,3 +53,24 @@ xbrl 데이터는 파일이 1개가 아닌 것으로 추정
 
 mssql jdbc 드라이버 문제
 java version이 11버전이 설치되어있었으나 vscode project setting에 8버전이 있었음.
+
+==================================================
+24.12.24.
+
+corp_code, corp_name, stock_code, modify_date
+
+rcept_no, reprt_code, bsns_year, corp_code, sj_div, sj_nm, account_id, account_nm, account_detail, thstrm_nm,thstrm_amount, ord, currency
+
+4. Model이라는 용어 사용의 적합성
+데이터 중심 객체로서 데이터베이스, API, 또는 도메인 데이터를 표현할 때.
+애플리케이션에서 MVC 패턴을 사용 중이며, 해당 객체가 Model 계층에 속할 때.
+5. 대안적인 용어
+상황에 따라 Java 객체를 더 구체적으로 표현하기 위해 다음과 같은 용어를 사용할 수 있습니다:
+
+DTO (Data Transfer Object): 데이터 전송을 목적으로 설계된 객체.
+Entity: 데이터베이스 테이블과 매핑된 객체.
+POJO: 간단한 Java 객체로, 특정 역할 없이 데이터만 포함하는 객체.
+VO (Value Object): 읽기 전용 데이터 객체.
+DAO (Data Access Object): 데이터베이스 접근을 담당하는 객체.
+
+* Dart의 종목코드와 오픈api의 코드가 일치하지않음
