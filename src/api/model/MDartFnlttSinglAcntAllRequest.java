@@ -1,9 +1,9 @@
-package api.data;
+package api.model;
 
 import lombok.Data;
 
 @Data
-public class FnlttSinglAcntAll {
+public class MDartFnlttSinglAcntAllRequest {
 
     private String crtfc_key; // API 인증키 (필수)
     private String corp_code; // 고유번호 (필수)

@@ -1,15 +1,15 @@
 package api;
 
 import api.data.CreateFilePath;
-import api.data.FnlttSinglAcntAll;
 import api.data.SaveData;
+import api.model.MDartFnlttSinglAcntAllRequest;
 import http.ApiClient;
 
 public class GetData {
 
     public int fnlttSinglAcntAll(int startYear, int endYear, String corp_code, String fs_div, String extension) {
 
-        FnlttSinglAcntAll fnlttSinglAcntAll = new FnlttSinglAcntAll();
+        MDartFnlttSinglAcntAllRequest fnlttSinglAcntAll = new MDartFnlttSinglAcntAllRequest();
 
         int countYear = endYear - startYear + 1;
         String[] years = new String[countYear];

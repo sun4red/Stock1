@@ -2,13 +2,15 @@ package api.data;
 
 import java.io.File;
 
+import api.model.MDartFnlttSinglAcntAllRequest;
+
 public class CreateFilePath {
 
     private String dir = "data/";
 
-    public String fnlttSinglAcntAll(FnlttSinglAcntAll fnlttSinglAcntAll, String extension) {
+    public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest mDartFnlttSinglAcntAllRequest, String extension) {
 
-        String subDir = fnlttSinglAcntAll.getCorp_code() + "/";
+        String subDir = mDartFnlttSinglAcntAllRequest.getCorp_code() + "/";
         File fileDir = new File(dir + subDir);
         if (!fileDir.exists()) {
             fileDir.mkdirs();
@@ -16,24 +18,24 @@ public class CreateFilePath {
         String filePath = "";
         String fileName = "";
 
-        if (fnlttSinglAcntAll.getCorp_code() != null && !fnlttSinglAcntAll.getCorp_code().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getCorp_code() != null && !mDartFnlttSinglAcntAllRequest.getCorp_code().isEmpty()) {
             fileName = fileName
-                    + fnlttSinglAcntAll.getCorp_code()
+                    + mDartFnlttSinglAcntAllRequest.getCorp_code()
                     + "_";
         }
-        if (fnlttSinglAcntAll.getBsns_year() != null && !fnlttSinglAcntAll.getBsns_year().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getBsns_year() != null && !mDartFnlttSinglAcntAllRequest.getBsns_year().isEmpty()) {
             fileName = fileName
-                    + fnlttSinglAcntAll.getBsns_year()
+                    + mDartFnlttSinglAcntAllRequest.getBsns_year()
                     + "_";
         }
-        if (fnlttSinglAcntAll.getReprt_code() != null && !fnlttSinglAcntAll.getReprt_code().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getReprt_code() != null && !mDartFnlttSinglAcntAllRequest.getReprt_code().isEmpty()) {
             fileName = fileName
-                    + fnlttSinglAcntAll.getReprt_code()
+                    + mDartFnlttSinglAcntAllRequest.getReprt_code()
                     + "_";
         }
-        if (fnlttSinglAcntAll.getFs_div() != null && !fnlttSinglAcntAll.getFs_div().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getFs_div() != null && !mDartFnlttSinglAcntAllRequest.getFs_div().isEmpty()) {
             fileName = fileName
-                    + fnlttSinglAcntAll.getFs_div();
+                    + mDartFnlttSinglAcntAllRequest.getFs_div();
             // + "_" ;
         }
 

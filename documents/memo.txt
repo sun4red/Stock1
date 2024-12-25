@@ -74,3 +74,15 @@ VO (Value Object): 읽기 전용 데이터 객체.
 DAO (Data Access Object): 데이터베이스 접근을 담당하는 객체.
 
 * Dart의 종목코드와 오픈api의 코드가 일치하지않음
+
+==================================================
+24.12.25.
+
+주식 거래량 회전율 따지기
+
+DB insert 문제 해결
+amount -> BigDecimal
+acount_nm -> nvarchar(300)
+
+(반복) 재무제표 파일(List) insert
+    {재무제표 라인 insert}

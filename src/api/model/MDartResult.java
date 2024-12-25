@@ -7,5 +7,6 @@ import java.util.List;
 public class MDartResult {
 
     private List<MDartCorpcode> corpcodeList;
+    private List<MDartFnlttSinglAcntAll> fnlttSinglAcntAllList;
 
 }

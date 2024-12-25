@@ -3,7 +3,7 @@ package api;
 import java.util.Map;
 
 import api.data.DartReportRequest;
-import api.data.FnlttSinglAcntAll;
+import api.model.MDartFnlttSinglAcntAllRequest;
 import utility.EnvReader;
 
 public class ApiDart {
@@ -115,7 +115,7 @@ public class ApiDart {
         // 3. 정기보고서 재무정보
         // 4) 단일회사 전체 재무제표
 
-        public String fnlttSinglAcntAll(FnlttSinglAcntAll fnlttSinglAcntAll) {
+        public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest fnlttSinglAcntAll) {
 
                 String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglAcntAll.xml";
 
