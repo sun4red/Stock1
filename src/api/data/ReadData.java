@@ -92,8 +92,9 @@ public class ReadData {
             String fs_div) {
         List<MDartFnlttSinglAcntAll> list = new ArrayList<>();
 
-        String subdir = corp_code;
-        String filePath = dataFilePath + subdir + "/" + corp_code + "_" + bsns_year + "_" + reprt_code + "_" + fs_div
+        String subDir = "fnlttSinglAcntAll";
+        String corpDir = corp_code;
+        String filePath = dataFilePath + subDir + "/" + corpDir + "/" + corp_code + "_" + bsns_year + "_" + reprt_code + "_" + fs_div
                 + ".xml";
 
         File file = new File(filePath);

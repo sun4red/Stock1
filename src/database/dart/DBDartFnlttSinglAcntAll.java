@@ -3,6 +3,8 @@ package database.dart;
 import java.math.BigDecimal;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 
@@ -20,7 +22,7 @@ public class DBDartFnlttSinglAcntAll {
         return DriverManager.getConnection(mssql_url, mssql_user, mssql_password);
     }
 
-    public int insertFnlttSinglAcntAll(MDartFnlttSinglAcntAll mDartFnlttSinglAcntAll) {
+    public int insert(MDartFnlttSinglAcntAll mDartFnlttSinglAcntAll) {
         int result = 0;
 
         String sql = "INSERT INTO FnlttSinglAcntAll ";
@@ -65,13 +67,58 @@ public class DBDartFnlttSinglAcntAll {
         return result;
     }
 
-    public int insertFnlttSinglAcntAllList(List<MDartFnlttSinglAcntAll> list) {
+    public int insertList(List<MDartFnlttSinglAcntAll> list) {
         int result = 0;
 
         for (int i = 0; i < list.size(); i++) {
             DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
-            dbDartFnlttSinglAcntAll.insertFnlttSinglAcntAll(list.get(i));
+            dbDartFnlttSinglAcntAll.insert(list.get(i));
         }
+
+        return result;
+    }
+
+    public String select_rcept_no(String reprt_code, String bsns_year, String corp_code) {
+        String rcept_no = "";
+
+        String sql = "select distinct(rcept_no) from FnlttSinglAcntAll where reprt_code = ? and bsns_year = ? and corp_code = ?";
+
+        try {
+
+            Connection connection = getConnection();
+            PreparedStatement pstmt = connection.prepareStatement(sql);
+            ResultSet rs = null;
+
+            pstmt.setString(1, reprt_code);
+            pstmt.setString(2, bsns_year);
+            pstmt.setString(3, corp_code);
+
+            rs = pstmt.executeQuery();
+
+            while (rs.next()) {
+
+                rcept_no = rs.getString(1);
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return rcept_no;
+    }
+
+    public int delete(String rcept_no) {
+        int result = 0;
+
+        String sql = "delete from FnlttSinglAcntAll where rcept_no = ?";
+
+        result = DBConnectionManager.executeUpdate(sql, rcept_no);
+
+        return result;
+    }
+
+    public int update(){
+        int result = 0;
 
         return result;
     }

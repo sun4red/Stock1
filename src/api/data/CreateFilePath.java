@@ -10,25 +10,30 @@ public class CreateFilePath {
 
     public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest mDartFnlttSinglAcntAllRequest, String extension) {
 
-        String subDir = mDartFnlttSinglAcntAllRequest.getCorp_code() + "/";
-        File fileDir = new File(dir + subDir);
+        String subDir = "fnlttSinglAcntAll/";
+        String corpDir = mDartFnlttSinglAcntAllRequest.getCorp_code() + "/";
+
+        File fileDir = new File(dir + subDir + corpDir);
         if (!fileDir.exists()) {
             fileDir.mkdirs();
         }
         String filePath = "";
         String fileName = "";
 
-        if (mDartFnlttSinglAcntAllRequest.getCorp_code() != null && !mDartFnlttSinglAcntAllRequest.getCorp_code().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getCorp_code() != null
+                && !mDartFnlttSinglAcntAllRequest.getCorp_code().isEmpty()) {
             fileName = fileName
                     + mDartFnlttSinglAcntAllRequest.getCorp_code()
                     + "_";
         }
-        if (mDartFnlttSinglAcntAllRequest.getBsns_year() != null && !mDartFnlttSinglAcntAllRequest.getBsns_year().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getBsns_year() != null
+                && !mDartFnlttSinglAcntAllRequest.getBsns_year().isEmpty()) {
             fileName = fileName
                     + mDartFnlttSinglAcntAllRequest.getBsns_year()
                     + "_";
         }
-        if (mDartFnlttSinglAcntAllRequest.getReprt_code() != null && !mDartFnlttSinglAcntAllRequest.getReprt_code().isEmpty()) {
+        if (mDartFnlttSinglAcntAllRequest.getReprt_code() != null
+                && !mDartFnlttSinglAcntAllRequest.getReprt_code().isEmpty()) {
             fileName = fileName
                     + mDartFnlttSinglAcntAllRequest.getReprt_code()
                     + "_";
@@ -39,7 +44,7 @@ public class CreateFilePath {
             // + "_" ;
         }
 
-        filePath = dir + subDir + fileName + "." + extension;
+        filePath = dir + subDir + corpDir + fileName + "." + extension;
         // System.out.println(filePath);
 
         return filePath;

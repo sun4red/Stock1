@@ -14,7 +14,7 @@ public class Main3 {
         List<MDartFnlttSinglAcntAll> list = new ArrayList<>();
 
         ReadData readData = new ReadData();
-        list = readData.XmlDartFnlttSinglAcntAll("00938721", "2023", "11011", "CFS");
+        list = readData.XmlDartFnlttSinglAcntAll("00938721", "2021", "11011", "CFS");
         // System.out.println(list);
 
 MDartFnlttSinglAcntAll mDartFnlttSinglAcntAll = new MDartFnlttSinglAcntAll();
@@ -26,7 +26,7 @@ mDartFnlttSinglAcntAll = list.get(0);
 
 DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
 // dbDartFnlttSinglAcntAll.insertFnlttSinglAcntAll(mDartFnlttSinglAcntAll);
-dbDartFnlttSinglAcntAll.insertFnlttSinglAcntAllList(list);
+dbDartFnlttSinglAcntAll.insertList(list);
 
 
 
