@@ -1,31 +1,58 @@
 package test;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
+import api.data.CreateFilePath;
+import api.data.ReadData;
+import api.model.MDartFnlttSinglAcntAll;
+import database.dart.DBDartFnlttSinglAcntAll;
 
 public class Main5 {
     public static void main(String[] args) {
 
-        String dir = "data/";
 
-        dir += "fnlttSinglAcntAll" + "/" + "00938721";
+DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+dbDartFnlttSinglAcntAll.updateData("00938721");
 
-        File fileDir = new File(dir);
 
-        // 디렉토리 확인 및 파일 목록 가져오기
-        if (fileDir.exists() && fileDir.isDirectory()) {
-            // 디렉토리 안의 파일 및 서브디렉토리 이름 배열 가져오기
-            String[] fileNames = fileDir.list();
 
-            if (fileNames != null) {
-                System.out.println("디렉토리 내 파일 목록:");
-                for (String fileName : fileNames) {
-                    System.out.println(fileName);
-                }
-            } else {
-                System.out.println("디렉토리가 비어 있거나 오류가 발생했습니다.");
-            }
-        } else {
-            System.out.println("지정된 경로가 디렉토리가 아니거나 존재하지 않습니다.");
-        }
+
+
     }
+
+    //     CreateFilePath createFilePath = new CreateFilePath();
+
+    //     List<String> fileList = createFilePath.fnlttSinglAcntAllList("00938721");
+
+    //     String directory = createFilePath.fnlttSinglAcntAllDir("00938721");
+
+    //     System.out.println("Directory: " + directory);
+
+    //     for (int i = 0; i < fileList.size(); i++) {
+    //         String fileName = fileList.get(i);
+    //         String[] splitFileName = fileName.split("_");
+    //         String corp_code = splitFileName[0];
+    //         String bsns_year = splitFileName[1];
+    //         String reprt_code = splitFileName[2];
+
+    //         DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+    //         String rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no(reprt_code, bsns_year, corp_code);
+    //         System.out.println(rcept_no);
+    //         if (rcept_no.isEmpty()  ||  rcept_no == null) {
+
+
+    //             List<MDartFnlttSinglAcntAll> list = new ArrayList<>();
+    //             ReadData readData = new ReadData();
+    //             list = readData.XmlDartFnlttSinglAcntAll(directory + "/" + fileName);
+
+    //             dbDartFnlttSinglAcntAll.insertList(list);
+    //             System.out.println("DB insert: " + fileName);
+    //             System.out.println(rcept_no);
+
+    //         }
+
+    //     }
+    // }
 }

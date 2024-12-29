@@ -6,8 +6,11 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.List;
 
+import api.data.CreateFilePath;
+import api.data.ReadData;
 import api.model.MDartFnlttSinglAcntAll;
 import database.DBConnectionManager;
 import utility.EnvReader;
@@ -117,10 +120,45 @@ public class DBDartFnlttSinglAcntAll {
         return result;
     }
 
-    public int update(){
+    public int updateData(String corp_code) {
         int result = 0;
 
+        CreateFilePath createFilePath = new CreateFilePath();
+
+        List<String> fileList = createFilePath.fnlttSinglAcntAllList(corp_code);
+
+        String directory = createFilePath.fnlttSinglAcntAllDir(corp_code);
+
+        System.out.println("Directory: " + directory);
+
+        for (int i = 0; i < fileList.size(); i++) {
+            String fileName = fileList.get(i);
+            String[] splitFileName = fileName.split("_");
+            // String corp_code = splitFileName[0];
+            String bsns_year = splitFileName[1];
+            String reprt_code = splitFileName[2];
+
+            DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+            String rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no(reprt_code, bsns_year, corp_code);
+            System.out.println(rcept_no);
+
+            if (rcept_no.isEmpty() || rcept_no == null) {
+
+                List<MDartFnlttSinglAcntAll> list = new ArrayList<>();
+                ReadData readData = new ReadData();
+                list = readData.XmlDartFnlttSinglAcntAll(directory + "/" + fileName);
+
+                dbDartFnlttSinglAcntAll.insertList(list);
+                System.out.println("DB insert: " + fileName);
+
+            } else {
+                System.out.println("rcept_no: " + rcept_no);
+                System.out.println("DB에 이미 존재하는 파일: " + fileName);
+            }
+
+        }
         return result;
+
     }
 
 }
