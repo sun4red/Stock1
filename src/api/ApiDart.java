@@ -1,7 +1,5 @@
 package api;
 
-import java.util.Map;
-
 import api.data.DartReportRequest;
 import api.model.MDartFnlttSinglAcntAllRequest;
 import utility.EnvReader;
@@ -115,32 +113,47 @@ public class ApiDart {
         // 3. 정기보고서 재무정보
         // 4) 단일회사 전체 재무제표
 
-        public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest fnlttSinglAcntAll) {
+        // #메소드 오버로딩
+        public String fnlttSinglAcntAllXml(MDartFnlttSinglAcntAllRequest fnlttSinglAcntAll) {
+
+                String corp_code = fnlttSinglAcntAll.getCorp_code();
+                String bsns_year = fnlttSinglAcntAll.getBsns_year();
+                String reprt_code = fnlttSinglAcntAll.getReprt_code();
+                String fs_div = fnlttSinglAcntAll.getFs_div();
+
+                String requestUrl = fnlttSinglAcntAllXml(corp_code, bsns_year, reprt_code, fs_div);
+
+                return requestUrl;
+
+        };
+
+        // #Base Method
+        public String fnlttSinglAcntAllXml(String corp_code, String bsns_year, String reprt_code, String fs_div) {
 
                 String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglAcntAll.xml";
 
                 String requestUrl = apiUrl
                                 + "?crtfc_key=" + crtfc_key;
 
-                if (fnlttSinglAcntAll.getCorp_code() != null && !fnlttSinglAcntAll.getCorp_code().isEmpty()) {
+                if (corp_code != null && !corp_code.isEmpty()) {
                         requestUrl = requestUrl
                                         + "&corp_code="
-                                        + fnlttSinglAcntAll.getCorp_code();
+                                        + corp_code;
                 }
-                if (fnlttSinglAcntAll.getBsns_year() != null && !fnlttSinglAcntAll.getBsns_year().isEmpty()) {
+                if (bsns_year != null && !bsns_year.isEmpty()) {
                         requestUrl = requestUrl
                                         + "&bsns_year="
-                                        + fnlttSinglAcntAll.getBsns_year();
+                                        + bsns_year;
                 }
-                if (fnlttSinglAcntAll.getReprt_code() != null && !fnlttSinglAcntAll.getReprt_code().isEmpty()) {
+                if (reprt_code != null && !reprt_code.isEmpty()) {
                         requestUrl = requestUrl
                                         + "&reprt_code="
-                                        + fnlttSinglAcntAll.getReprt_code();
+                                        + reprt_code;
                 }
-                if (fnlttSinglAcntAll.getFs_div() != null && !fnlttSinglAcntAll.getFs_div().isEmpty()) {
+                if (fs_div != null && !fs_div.isEmpty()) {
                         requestUrl = requestUrl
                                         + "&fs_div="
-                                        + fnlttSinglAcntAll.getFs_div();
+                                        + fs_div;
                 }
 
                 return requestUrl;

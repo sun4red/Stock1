@@ -146,10 +146,12 @@ public class DBDartFnlttSinglAcntAll {
 
                 List<MDartFnlttSinglAcntAll> list = new ArrayList<>();
                 ReadData readData = new ReadData();
-                list = readData.XmlDartFnlttSinglAcntAll(directory + "/" + fileName);
+                list = readData.dartFnlttSinglAcntAll(directory + "/" + fileName);
 
-                dbDartFnlttSinglAcntAll.insertList(list);
-                System.out.println("DB insert: " + fileName);
+                if (!list.isEmpty()) {
+                    dbDartFnlttSinglAcntAll.insertList(list);
+                    System.out.println("DB insert: " + fileName);
+                }
 
             } else {
                 System.out.println("rcept_no: " + rcept_no);

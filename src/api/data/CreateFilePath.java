@@ -12,9 +12,11 @@ public class CreateFilePath {
     private String dartDir = "dart/";
     private String fnlttSinglAcntAllDir = "fnlttSinglAcntAll/";
 
-    public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest mDartFnlttSinglAcntAllRequest, String extension) {
+    // #Base Method
+    public String fnlttSinglAcntAll(String corp_code, String bsns_year, String reprt_code, String fs_div,
+            String extension) {
 
-        String corpDir = mDartFnlttSinglAcntAllRequest.getCorp_code() + "/";
+        String corpDir = corp_code + "/";
         String directory = dir + dartDir + fnlttSinglAcntAllDir + corpDir;
 
         File fileDir = new File(directory);
@@ -24,32 +26,46 @@ public class CreateFilePath {
         String filePath = directory;
         String fileName = "";
 
-        if (mDartFnlttSinglAcntAllRequest.getCorp_code() != null
-                && !mDartFnlttSinglAcntAllRequest.getCorp_code().isEmpty()) {
+        if (corp_code != null
+                && !corp_code.isEmpty()) {
             fileName = fileName
-                    + mDartFnlttSinglAcntAllRequest.getCorp_code()
+                    + corp_code
                     + "_";
         }
-        if (mDartFnlttSinglAcntAllRequest.getBsns_year() != null
-                && !mDartFnlttSinglAcntAllRequest.getBsns_year().isEmpty()) {
+        if (bsns_year != null
+                && !bsns_year.isEmpty()) {
             fileName = fileName
-                    + mDartFnlttSinglAcntAllRequest.getBsns_year()
+                    + bsns_year
                     + "_";
         }
-        if (mDartFnlttSinglAcntAllRequest.getReprt_code() != null
-                && !mDartFnlttSinglAcntAllRequest.getReprt_code().isEmpty()) {
+        if (reprt_code != null
+                && !reprt_code.isEmpty()) {
             fileName = fileName
-                    + mDartFnlttSinglAcntAllRequest.getReprt_code()
+                    + reprt_code
                     + "_";
         }
-        if (mDartFnlttSinglAcntAllRequest.getFs_div() != null && !mDartFnlttSinglAcntAllRequest.getFs_div().isEmpty()) {
+        if (fs_div != null && !fs_div.isEmpty()) {
             fileName = fileName
-                    + mDartFnlttSinglAcntAllRequest.getFs_div();
+                    + fs_div;
             // + "_" ;
         }
 
         filePath += fileName + "." + extension;
-        // System.out.println(filePath);
+
+        return filePath;
+    }
+
+    // #메소드 오버로딩
+    public String fnlttSinglAcntAll(MDartFnlttSinglAcntAllRequest mDartFnlttSinglAcntAllRequest, String extension) {
+
+        String filePath = "";
+
+        String corp_code = mDartFnlttSinglAcntAllRequest.getCorp_code();
+        String bsns_year = mDartFnlttSinglAcntAllRequest.getBsns_year();
+        String reprt_code = mDartFnlttSinglAcntAllRequest.getReprt_code();
+        String fs_div = mDartFnlttSinglAcntAllRequest.getFs_div();
+
+        filePath = fnlttSinglAcntAll(corp_code, bsns_year, reprt_code, fs_div, extension);
 
         return filePath;
     }
@@ -64,9 +80,8 @@ public class CreateFilePath {
         String Directory = dir + dartDir + fnlttSinglAcntAllDir + corp_code;
         List<String> fileList = new ArrayList<>();
 
-
         File fileDir = new File(Directory);
-        
+
         // 디렉토리 확인 및 파일 목록 가져오기
         if (fileDir.exists() && fileDir.isDirectory()) {
             // 디렉토리 안의 파일 및 서브디렉토리 이름 배열 가져오기

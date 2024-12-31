@@ -1,0 +1,9 @@
+github commit message 관리
+
+feat: 새로운 기능 추가
+fix: 버그 수정
+docs: 문서 변경
+style: 코드 포맷팅, 세미콜론 누락 등과 같은 스타일 변경
+refactor: 코드 리팩토링
+test: 테스트 코드 추가 또는 수정
+chore: 빌드 프로세스 업데이트, 패키지 매니저 설정 등과 같은 기타 작업

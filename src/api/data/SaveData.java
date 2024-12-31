@@ -17,25 +17,25 @@ public class SaveData {
         return instance;
     }
 
-    public void saveJson(String data, String filePath) {
+    // public void saveJson(String data, String filePath) {
 
-        // 파일에 JSON 데이터를 저장
-        try (BufferedWriter writer = new BufferedWriter(
-                new OutputStreamWriter(new FileOutputStream(filePath), StandardCharsets.UTF_8))) {
-            writer.write(data);
-            System.out.println("JSON 데이터가 파일에 저장되었습니다.");
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+    //     // 파일에 JSON 데이터를 저장
+    //     try (BufferedWriter writer = new BufferedWriter(
+    //             new OutputStreamWriter(new FileOutputStream(filePath), StandardCharsets.UTF_8))) {
+    //         writer.write(data);
+    //         System.out.println("JSON 데이터가 파일에 저장되었습니다.");
+    //     } catch (IOException e) {
+    //         e.printStackTrace();
+    //     }
 
-    }
+    // }
 
     public void saveXml(String data, String filePath) {
 
         try (BufferedWriter writer = new BufferedWriter(
                 new OutputStreamWriter(new FileOutputStream(filePath), StandardCharsets.UTF_8))) {
             writer.write(data);
-            System.out.println("XML 데이터가 파일에 저장되었습니다.");
+            System.out.println("저장된 데이터: " + filePath);
         } catch (IOException e) {
             e.printStackTrace();
         }
