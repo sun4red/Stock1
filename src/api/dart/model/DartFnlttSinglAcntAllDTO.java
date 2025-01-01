@@ -1,9 +1,9 @@
-package api.model;
+package api.dart.model;
 
 import lombok.Data;
 
 @Data
-public class MDartFnlttSinglAcntAll {
+public class DartFnlttSinglAcntAllDTO {
 
     private String rcept_no;
     private String reprt_code;

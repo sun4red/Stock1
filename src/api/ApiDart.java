@@ -1,7 +1,6 @@
 package api;
 
-import api.data.DartReportRequest;
-import api.model.MDartFnlttSinglAcntAllRequest;
+import api.dart.model.DartReportRequest;
 import utility.EnvReader;
 
 public class ApiDart {
@@ -112,20 +111,7 @@ public class ApiDart {
 
         // 3. 정기보고서 재무정보
         // 4) 단일회사 전체 재무제표
-
-        // #메소드 오버로딩
-        public String fnlttSinglAcntAllXml(MDartFnlttSinglAcntAllRequest fnlttSinglAcntAll) {
-
-                String corp_code = fnlttSinglAcntAll.getCorp_code();
-                String bsns_year = fnlttSinglAcntAll.getBsns_year();
-                String reprt_code = fnlttSinglAcntAll.getReprt_code();
-                String fs_div = fnlttSinglAcntAll.getFs_div();
-
-                String requestUrl = fnlttSinglAcntAllXml(corp_code, bsns_year, reprt_code, fs_div);
-
-                return requestUrl;
-
-        };
+        // 0304
 
         // #Base Method
         public String fnlttSinglAcntAllXml(String corp_code, String bsns_year, String reprt_code, String fs_div) {
