@@ -1,10 +1,14 @@
 package data.update;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 import api.ApiDart;
 import api.SaveDataFile;
 import api.dart.DataFileManagerFnlttSinglAcntAll;
+import api.dart.model.DartFnlttSinglAcntAllDTO;
+import database.dart.DBDartFnlttSinglAcntAll;
 import http.ApiClient;
 
 public class UpdateFnlttSinglAcntAll {
@@ -47,6 +51,63 @@ public class UpdateFnlttSinglAcntAll {
         }
 
         return result;
+    }
+
+    public int newXmlData(int startYear, int endYear, String corp_code, String fs_div) {
+        int result = 0;
+
+
+
+
+
+
+
+        
+        return result;
+    }
+
+    // DB
+    public int updateData(String corp_code) {
+        int result = 0;
+
+        DataFileManagerFnlttSinglAcntAll dataFileManager = new DataFileManagerFnlttSinglAcntAll();
+
+        List<String> fileList = dataFileManager.fileList(corp_code);
+
+        String directory = dataFileManager.dir(corp_code);
+
+        System.out.println("Directory: " + directory);
+
+        for (int i = 0; i < fileList.size(); i++) {
+            String fileName = fileList.get(i);
+            String[] splitFileName = fileName.split("_");
+            // String corp_code = splitFileName[0];
+            String bsns_year = splitFileName[1];
+            String reprt_code = splitFileName[2];
+
+            DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+            String rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no(reprt_code, bsns_year, corp_code);
+            System.out.println(rcept_no);
+
+            if (rcept_no.isEmpty() || rcept_no == null) {
+
+                List<DartFnlttSinglAcntAllDTO> list = new ArrayList<>();
+
+                list = dataFileManager.readXmlFile(directory + fileName);
+
+                if (!list.isEmpty()) {
+                    dbDartFnlttSinglAcntAll.insertList(list);
+                    System.out.println("DB insert: " + fileName);
+                }
+
+            } else {
+                System.out.println("rcept_no: " + rcept_no);
+                System.out.println("DB에 이미 존재하는 파일: " + fileName);
+            }
+
+        }
+        return result;
+
     }
 
 }
