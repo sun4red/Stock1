@@ -15,6 +15,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 import api.*;
+import api.dart.model.DartListRequest;
 // import java.net.http.HttpClient;
 // import java.net.http.HttpRequest;
 // import java.net.http.HttpResponse;
@@ -26,7 +27,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        DartReportRequest drr = new DartReportRequest();
+        DartListRequest drr = new DartListRequest();
 
         // drr.setCorp_code("00938721");
         // drr.setBgn_de("20240101");

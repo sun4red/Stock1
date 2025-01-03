@@ -1,1 +1,2454 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><result><status>000</status><message>정상</message><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CurrentAssets</account_id><account_nm>유동자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>159192692201</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>183149252719</frmtrm_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CashAndCashEquivalents</account_id><account_nm>현금및현금성자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>36048360734</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>80035674775</frmtrm_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_TradeAndOtherCurrentReceivables</account_id><account_nm>매출채권 및 기타채권</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>31249651257</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>21260378333</frmtrm_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_Inventories</account_id><account_nm>재고자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>69989027266</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>64031766737</frmtrm_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_OtherCurrentFinancialAssets</account_id><account_nm>기타유동금융자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>8814639260</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>3276780614</frmtrm_amount><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_CurrentDerivativeAsset</account_id><account_nm>유동파생상품자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount></thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>1135189209</frmtrm_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_OtherCurrentAssets</account_id><account_nm>기타유동자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>13091013684</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>13409463051</frmtrm_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_NoncurrentAssets</account_id><account_nm>비유동자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>121711044683</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>134930137752</frmtrm_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_InvestmentProperty</account_id><account_nm>투자부동산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>1481228012</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>4734229449</frmtrm_amount><ord>10</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_PropertyPlantAndEquipment</account_id><account_nm>유형자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>93091334357</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>106499729984</frmtrm_amount><ord>11</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_IntangibleAssetsOtherThanGoodwill</account_id><account_nm>영업권 이외의 무형자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>6633776805</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>7573213391</frmtrm_amount><ord>12</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition</account_id><account_nm>당기손익-공정가치금융자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>4911607911</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>3005036025</frmtrm_amount><ord>13</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_OtherNoncurrentFinancialAssets</account_id><account_nm>기타 상각후원가 측정 금융자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>5892496019</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>5007753930</frmtrm_amount><ord>14</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_DeferredTaxAssets</account_id><account_nm>이연법인세자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>9700601579</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>8110174973</frmtrm_amount><ord>15</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_Assets</account_id><account_nm>자산총계</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>280903736884</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>318079390471</frmtrm_amount><ord>16</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CurrentLiabilities</account_id><account_nm>유동부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>123099619487</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>187537257568</frmtrm_amount><ord>18</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_ShortTermTradePayables</account_id><account_nm>단기매입채무</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>22899553869</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>9987013581</frmtrm_amount><ord>19</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_ShorttermBorrowings</account_id><account_nm>단기차입금</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>19500000000</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>40600000000</frmtrm_amount><ord>20</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CurrentPortionOfLongtermBorrowings</account_id><account_nm>유동성장기차입금</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>10000000000</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>8462500007</frmtrm_amount><ord>21</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_CurrentPortionOfConvertibleBonds</account_id><account_nm>유동성전환사채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>17750587452</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>25217123289</frmtrm_amount><ord>22</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CurrentProvisions</account_id><account_nm>기타충당부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>10558060497</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>8605031936</frmtrm_amount><ord>23</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_OtherCurrentFinancialLiabilities</account_id><account_nm>기타유동금융부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>7830706813</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>13826134874</frmtrm_amount><ord>24</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_OtherCurrentLiabilities</account_id><account_nm>기타유동부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>34306772657</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>80785117156</frmtrm_amount><ord>25</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_CurrentLeaseLiabilities</account_id><account_nm>유동리스부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>253938199</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>54336725</frmtrm_amount><ord>26</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_NoncurrentLiabilities</account_id><account_nm>비유동부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>53169913978</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>36711589181</frmtrm_amount><ord>27</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_ConvertibleBonds</account_id><account_nm>전환사채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>13202137785</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount></frmtrm_amount><ord>28</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_PostemploymentBenefitObligations</account_id><account_nm>퇴직급여부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>31041183</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>48694300</frmtrm_amount><ord>29</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_LongTermBorrowingsGross</account_id><account_nm>장기차입금</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>32000000000</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>32500000000</frmtrm_amount><ord>30</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_OtherNoncurrentFinancialLiabilities</account_id><account_nm>기타비유동금융부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>1023320000</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>3928720000</frmtrm_amount><ord>31</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_LongTermTradeAndOtherNonCurrentPayables</account_id><account_nm>장기매입채무 및 기타비유동채무</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>2363561517</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount></frmtrm_amount><ord>32</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_NonCurrentDerivativeLiabilities</account_id><account_nm>비유동파생상품부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>4253670191</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount></frmtrm_amount><ord>33</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_NoncurrentLeaseLiabilities</account_id><account_nm>비유동리스부채</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>296183302</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>234174881</frmtrm_amount><ord>34</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_Liabilities</account_id><account_nm>부채총계</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>176269533465</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>224248846749</frmtrm_amount><ord>35</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_EquityAttributableToOwnersOfParent</account_id><account_nm>지배기업의 소유주에게 귀속되는 자본</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>100275818616</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>90905149455</frmtrm_amount><ord>37</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_IssuedCapital</account_id><account_nm>자본금</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>10805393000</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>10449491500</frmtrm_amount><ord>38</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_CapitalSurplus</account_id><account_nm>자본잉여금</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>93214370443</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>85697743310</frmtrm_amount><ord>39</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_ElementsOfOtherStockholdersEquity</account_id><account_nm>기타자본구성요소</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>-5181253230</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>-5150097895</frmtrm_amount><ord>40</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>dart_OtherComprehensiveIncomeLossAccumulatedAmount</account_id><account_nm>기타포괄손익누계액</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>60937929</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>5414153</frmtrm_amount><ord>41</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_RetainedEarnings</account_id><account_nm>이익잉여금(결손금)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>1376370474</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>-97401613</frmtrm_amount><ord>42</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_NoncontrollingInterests</account_id><account_nm>비지배지분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>4358384803</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>2925394267</frmtrm_amount><ord>43</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>자본총계</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>104634203419</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>93830543722</frmtrm_amount><ord>44</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>BS</sj_div><sj_nm>재무상태표</sj_nm><account_id>ifrs-full_EquityAndLiabilities</account_id><account_nm>자본과부채총계</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기말</thstrm_nm><thstrm_amount>280903736884</thstrm_amount><frmtrm_nm>제 13 기말</frmtrm_nm><frmtrm_amount>318079390471</frmtrm_amount><ord>45</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_Revenue</account_id><account_nm>수익(매출액)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>71801582451</thstrm_amount><thstrm_add_amount>160471328585</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>38930391695</frmtrm_q_amount><frmtrm_add_amount>158321161520</frmtrm_add_amount><ord>0</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_CostOfSales</account_id><account_nm>매출원가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>65198395263</thstrm_amount><thstrm_add_amount>146417436659</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>32450060127</frmtrm_q_amount><frmtrm_add_amount>122890118034</frmtrm_add_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_GrossProfit</account_id><account_nm>매출총이익</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>6603187188</thstrm_amount><thstrm_add_amount>14053891926</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>6480331568</frmtrm_q_amount><frmtrm_add_amount>35431043486</frmtrm_add_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>dart_TotalSellingGeneralAdministrativeExpenses</account_id><account_nm>판매비와관리비</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>8657167744</thstrm_amount><thstrm_add_amount>24191533697</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>8459489777</frmtrm_q_amount><frmtrm_add_amount>26001120064</frmtrm_add_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>dart_OperatingIncomeLoss</account_id><account_nm>영업이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-2053980556</thstrm_amount><thstrm_add_amount>-10137641771</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1979158209</frmtrm_q_amount><frmtrm_add_amount>9429923422</frmtrm_add_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>dart_OtherGains</account_id><account_nm>기타영업외수익</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>177039845</thstrm_amount><thstrm_add_amount>10926752685</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>12138104</frmtrm_q_amount><frmtrm_add_amount>232889770</frmtrm_add_amount><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>dart_OtherLosses</account_id><account_nm>기타영업외비용</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>114789347</thstrm_amount><thstrm_add_amount>168261719</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>23776438</frmtrm_q_amount><frmtrm_add_amount>238448880</frmtrm_add_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_FinanceIncome</account_id><account_nm>금융수익</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1758121078</thstrm_amount><thstrm_add_amount>4302415345</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>648132093</frmtrm_q_amount><frmtrm_add_amount>3137201112</frmtrm_add_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_FinanceCosts</account_id><account_nm>금융원가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>672818435</thstrm_amount><thstrm_add_amount>2275993123</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>754535686</frmtrm_q_amount><frmtrm_add_amount>3807663992</frmtrm_add_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ProfitLossBeforeTax</account_id><account_nm>법인세비용차감전순이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-906427415</thstrm_amount><thstrm_add_amount>2647271417</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-2097200136</frmtrm_q_amount><frmtrm_add_amount>8753901432</frmtrm_add_amount><ord>9</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_IncomeTaxExpenseContinuingOperations</account_id><account_nm>법인세비용</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>725232317</thstrm_amount><thstrm_add_amount>-259491206</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-617868278</frmtrm_q_amount><frmtrm_add_amount>-1271959294</frmtrm_add_amount><ord>10</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ProfitLoss</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-1631659732</thstrm_amount><thstrm_add_amount>2906762623</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1479331858</frmtrm_q_amount><frmtrm_add_amount>10025860726</frmtrm_add_amount><ord>11</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_OtherComprehensiveIncome</account_id><account_nm>기타포괄손익</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-209803</thstrm_amount><thstrm_add_amount>55523776</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-18960447</frmtrm_q_amount><frmtrm_add_amount>61848378</frmtrm_add_amount><ord>12</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax</account_id><account_nm>당기손익으로 재분류될 수 있는 항목(세후기타포괄손익)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-209803</thstrm_amount><thstrm_add_amount>55523776</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-18960447</frmtrm_q_amount><frmtrm_add_amount>61848378</frmtrm_add_amount><ord>13</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax</account_id><account_nm>해외사업장환산외환차이(세후기타포괄손익)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-209803</thstrm_amount><thstrm_add_amount>55523776</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-18960447</frmtrm_q_amount><frmtrm_add_amount>61848378</frmtrm_add_amount><ord>14</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ComprehensiveIncome</account_id><account_nm>총포괄손익</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-1631869535</thstrm_amount><thstrm_add_amount>2962286399</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1498292305</frmtrm_q_amount><frmtrm_add_amount>10087709104</frmtrm_add_amount><ord>15</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ProfitLossAttributableToOwnersOfParent</account_id><account_nm>지배기업의 소유주에게 귀속되는 당기순이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-2565588889</thstrm_amount><thstrm_add_amount>1473772087</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1479331858</frmtrm_q_amount><frmtrm_add_amount>10025860726</frmtrm_add_amount><ord>17</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ProfitLossAttributableToNoncontrollingInterests</account_id><account_nm>비지배지분에 귀속되는 당기순이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>933929157</thstrm_amount><thstrm_add_amount>1432990536</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount></frmtrm_q_amount><frmtrm_add_amount></frmtrm_add_amount><ord>18</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent</account_id><account_nm>총 포괄손익, 지배기업의 소유주에게 귀속되는 지분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-2565798692</thstrm_amount><thstrm_add_amount>1529295863</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1498292305</frmtrm_q_amount><frmtrm_add_amount>10087709104</frmtrm_add_amount><ord>20</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests</account_id><account_nm>총 포괄손익, 비지배지분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>933929157</thstrm_amount><thstrm_add_amount>1432990536</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount></frmtrm_q_amount><frmtrm_add_amount></frmtrm_add_amount><ord>21</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_BasicEarningsLossPerShare</account_id><account_nm>기본주당이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-76</thstrm_amount><thstrm_add_amount>137</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-79</frmtrm_q_amount><frmtrm_add_amount>538</frmtrm_add_amount><ord>23</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CIS</sj_div><sj_nm>포괄손익계산서</sj_nm><account_id>ifrs-full_DilutedEarningsLossPerShare</account_id><account_nm>희석주당이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-65</thstrm_amount><thstrm_add_amount>152</thstrm_add_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-65</frmtrm_q_amount><frmtrm_add_amount>480</frmtrm_add_amount><ord>24</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_CashFlowsFromUsedInOperatingActivities</account_id><account_nm>영업활동현금흐름</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-62483997698</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>28116336074</frmtrm_q_amount><ord>0</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProfitLossForStatementOfCashFlows</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>2906762623</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>10025860726</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_AdjustmentsForReconcileProfitLoss</account_id><account_nm>당기순이익조정을 위한 가감</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-676485674</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>14826429074</frmtrm_q_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities</account_id><account_nm>영업활동으로인한자산ㆍ부채의변동</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-63588792825</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>3223800034</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_InterestReceivedClassifiedAsOperatingActivities</account_id><account_nm>이자수취(영업)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>122325263</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>72886072</frmtrm_q_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_InterestPaidClassifiedAsOperatingActivities</account_id><account_nm>이자지급(영업)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-102282958</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>32639832</frmtrm_q_amount><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities</account_id><account_nm>법인세납부(환급)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1350090043</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>0</frmtrm_q_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_CashFlowsFromUsedInInvestingActivities</account_id><account_nm>투자활동현금흐름</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>17297557985</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-18810276601</frmtrm_q_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromSalesOfShortTermFinancialInstruments</account_id><account_nm>단기금융상품의 처분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>49712163030</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromSalesOfLongTermFinancialInstruments</account_id><account_nm>장기금융상품의 처분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>17743500</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>9</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromSalesOfFairValueFinancialAsset</account_id><account_nm>당기손익인식금융자산의 처분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount></thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>2078825405</frmtrm_q_amount><ord>10</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_DecreaseInLoans</account_id><account_nm>대여금의 감소</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>693056220</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>617260479</frmtrm_q_amount><ord>11</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_DecreaseInGuaranteeDeposits</account_id><account_nm>임차보증금의 감소</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>709366808</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>1597387675</frmtrm_q_amount><ord>12</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities</account_id><account_nm>선물계약, 선도계약, 옵션계약 및 스왑계약에 따른 현금유입</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount></thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>815000000</frmtrm_q_amount><ord>13</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id><account_nm>유형자산의 처분</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>37913092076</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>191348820</frmtrm_q_amount><ord>14</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_PurchaseOfShortTermFinancialInstruments</account_id><account_nm>단기금융상품의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>54114832467</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>12122498</frmtrm_q_amount><ord>15</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_PurchaseOfLongTermFinancialInstruments</account_id><account_nm>장기금융상품의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>84876881</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>106204824</frmtrm_q_amount><ord>16</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_PurchaseOfFairValueFinancialAsset</account_id><account_nm>당기손익인식금융자산의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1300000000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>0</frmtrm_q_amount><ord>17</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities</account_id><account_nm>선물계약, 선도계약, 옵션계약 및 스왑계약에 따른 현금유출</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>334189209</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>134850000</frmtrm_q_amount><ord>18</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_IncreaseInLoans</account_id><account_nm>대여금의 증가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>489052440</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>364117340</frmtrm_q_amount><ord>19</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_IncreaseInGuaranteeDeposits</account_id><account_nm>임차보증금의 증가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1490875637</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>816749784</frmtrm_q_amount><ord>20</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_PurchaseOfInvestmentsInSubsidiaries</account_id><account_nm>종속기업에 대한 투자자산의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23498000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>0</frmtrm_q_amount><ord>21</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id><account_nm>유형자산의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>13628588460</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>21198949502</frmtrm_q_amount><ord>22</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities</account_id><account_nm>무형자산의 취득</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>281950555</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>1477105032</frmtrm_q_amount><ord>23</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_CashFlowsFromUsedInFinancingActivities</account_id><account_nm>재무활동현금흐름</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-530719439</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>27155104698</frmtrm_q_amount><ord>24</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromShortTermBorrowings</account_id><account_nm>단기차입금의 증가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>5000000000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>3000000000</frmtrm_q_amount><ord>25</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromLongTermBorrowings</account_id><account_nm>장기차입금의 증가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>9500000000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>9200000000</frmtrm_q_amount><ord>26</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromConvertibleBonds</account_id><account_nm>전환사채의 증가</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>16000000000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>25000000000</frmtrm_q_amount><ord>27</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>유상증자</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>4000101000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>0</frmtrm_q_amount><ord>28</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_ProceedsFromExerciseOfShareOptions</account_id><account_nm>주식선택권행사로 인한 현금유입</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>228945127</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>467780938</frmtrm_q_amount><ord>29</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>자본금 유입</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23498000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>0</frmtrm_q_amount><ord>30</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities</account_id><account_nm>차입금의 상환</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>34562500007</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>2666666664</frmtrm_q_amount><ord>31</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_RepaymentsOfConvertibleBonds</account_id><account_nm>전환사채의 감소</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount></thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>7200017288</frmtrm_q_amount><ord>32</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_PaymentForStockIssueCost</account_id><account_nm>신주발행비 지급</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>12320</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>33</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities</account_id><account_nm>리스부채의 상환</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>720751239</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>645992288</frmtrm_q_amount><ord>34</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges</account_id><account_nm>환율변동효과 반영전 현금및현금성자산의 순증가(감소)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-45717159152</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>36461164171</frmtrm_q_amount><ord>35</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents</account_id><account_nm>현금및현금성자산에 대한 환율변동효과</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1729845111</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>65801189</frmtrm_q_amount><ord>36</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>ifrs-full_IncreaseDecreaseInCashAndCashEquivalents</account_id><account_nm>현금및현금성자산의순증가(감소)</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-43987314041</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>36526965360</frmtrm_q_amount><ord>37</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_CashAndCashEquivalentsAtBeginningOfPeriodCf</account_id><account_nm>기초현금및현금성자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>80035674775</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>7665843913</frmtrm_q_amount><ord>38</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>CF</sj_div><sj_nm>현금흐름표</sj_nm><account_id>dart_CashAndCashEquivalentsAtEndOfPeriodCf</account_id><account_nm>기말현금및현금성자산</account_nm><account_detail>-</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>36048360734</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>44192809273</frmtrm_q_amount><ord>39</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-97401613</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-4732146025</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>85697743310</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>58648530098</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>10449491500</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>9176594000</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>5414153</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>8497685</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-5150097895</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-4852718774</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>90905149455</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>58248756984</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>자본 [member]|비지배지분 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>2925394267</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_EquityAtBeginningOfPeriod</account_id><account_nm>기초자본</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>93830543722</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>58248756984</frmtrm_q_amount><ord>1</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_ProfitLoss</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-1631659732</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>-1479331858</frmtrm_q_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_ProfitLoss</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1473772087</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>10025860727</frmtrm_q_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_ProfitLoss</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>자본 [member]|비지배지분 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1432990536</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_ProfitLoss</account_id><account_nm>당기순이익(손실)</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1473772087</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>10025860727</frmtrm_q_amount><ord>2</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>주식매수선택권 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>228945127</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>467780939</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>주식매수선택권 행사</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>228945127</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>467780939</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>주식매수선택권 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23721500</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>64473000</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>주식매수선택권 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-42318761</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>398856513</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>주식매수선택권 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>247542388</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>802164452</frmtrm_q_amount><ord>3</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>전환사채 행사</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>7577766745</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>2999995712</frmtrm_q_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>전환사채 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>7269084745</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>2803042212</frmtrm_q_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>전환사채 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>308682000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>196953500</frmtrm_q_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>전환사채 행사</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>7577766745</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>2999995712</frmtrm_q_amount><ord>4</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>유상증자</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23498000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>유상증자</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23498000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>-표준계정코드 미사용-</account_id><account_nm>유상증자</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>23498000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>5</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ChangesInForeignExchangeRates</account_id><account_nm>해외사업장환산차이</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>55523776</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>61848378</frmtrm_q_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ChangesInForeignExchangeRates</account_id><account_nm>해외사업장환산차이</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>55523776</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>61848378</frmtrm_q_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ChangesInForeignExchangeRates</account_id><account_nm>해외사업장환산차이</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>55523776</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>61848378</frmtrm_q_amount><ord>6</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ShareBasedPaymentTransactions</account_id><account_nm>주식기준보상거래</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>11163426</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>89802904</frmtrm_q_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ShareBasedPaymentTransactions</account_id><account_nm>주식기준보상거래</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>11163426</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>89802904</frmtrm_q_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>dart_ShareBasedPaymentTransactions</account_id><account_nm>주식기준보상거래</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>11163426</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>89802904</frmtrm_q_amount><ord>7</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>60937929</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>70346063</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>93214370443</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>62253736762</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>10805393000</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>9438020500</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>1376370474</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>5293714702</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>연결재무제표 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>104634203419</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>71894045644</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>-5181253230</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>5161772383</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>100275818616</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><frmtrm_q_amount>71894045644</frmtrm_q_amount><ord>8</ord><currency>KRW</currency></list><list><rcept_no>20211115002447</rcept_no><reprt_code>11014</reprt_code><bsns_year>2021</bsns_year><corp_code>00938721</corp_code><sj_div>SCE</sj_div><sj_nm>자본변동표</sj_nm><account_id>ifrs-full_Equity</account_id><account_nm>기말자본</account_nm><account_detail>자본 [member]|비지배지분 [member]</account_detail><thstrm_nm>제 14 기 3분기</thstrm_nm><thstrm_amount>4358384803</thstrm_amount><frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm><ord>8</ord><currency>KRW</currency></list></result>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <status>000</status>
+    <message>정상</message>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentAssets</account_id>
+        <account_nm>유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>159192692201</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>183149252719</frmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>36048360734</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>80035674775</frmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_TradeAndOtherCurrentReceivables</account_id>
+        <account_nm>매출채권 및 기타채권</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>31249651257</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>21260378333</frmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Inventories</account_id>
+        <account_nm>재고자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>69989027266</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>64031766737</frmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherCurrentFinancialAssets</account_id>
+        <account_nm>기타유동금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>8814639260</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>3276780614</frmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_CurrentDerivativeAsset</account_id>
+        <account_nm>유동파생상품자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>1135189209</frmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentAssets</account_id>
+        <account_nm>기타유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>13091013684</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>13409463051</frmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentAssets</account_id>
+        <account_nm>비유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>121711044683</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>134930137752</frmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_InvestmentProperty</account_id>
+        <account_nm>투자부동산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>1481228012</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>4734229449</frmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_PropertyPlantAndEquipment</account_id>
+        <account_nm>유형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>93091334357</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>106499729984</frmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_IntangibleAssetsOtherThanGoodwill</account_id>
+        <account_nm>영업권 이외의 무형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>6633776805</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>7573213391</frmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition</account_id>
+        <account_nm>당기손익-공정가치금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>4911607911</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>3005036025</frmtrm_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherNoncurrentFinancialAssets</account_id>
+        <account_nm>기타 상각후원가 측정 금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>5892496019</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>5007753930</frmtrm_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_DeferredTaxAssets</account_id>
+        <account_nm>이연법인세자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>9700601579</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>8110174973</frmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Assets</account_id>
+        <account_nm>자산총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>280903736884</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>318079390471</frmtrm_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentLiabilities</account_id>
+        <account_nm>유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>123099619487</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>187537257568</frmtrm_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ShortTermTradePayables</account_id>
+        <account_nm>단기매입채무</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>22899553869</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>9987013581</frmtrm_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_ShorttermBorrowings</account_id>
+        <account_nm>단기차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>19500000000</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>40600000000</frmtrm_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentPortionOfLongtermBorrowings</account_id>
+        <account_nm>유동성장기차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>10000000000</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>8462500007</frmtrm_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_CurrentPortionOfConvertibleBonds</account_id>
+        <account_nm>유동성전환사채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>17750587452</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>25217123289</frmtrm_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentProvisions</account_id>
+        <account_nm>기타충당부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>10558060497</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>8605031936</frmtrm_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherCurrentFinancialLiabilities</account_id>
+        <account_nm>기타유동금융부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>7830706813</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>13826134874</frmtrm_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentLiabilities</account_id>
+        <account_nm>기타유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>34306772657</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>80785117156</frmtrm_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentLeaseLiabilities</account_id>
+        <account_nm>유동리스부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>253938199</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>54336725</frmtrm_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentLiabilities</account_id>
+        <account_nm>비유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>53169913978</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>36711589181</frmtrm_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ConvertibleBonds</account_id>
+        <account_nm>전환사채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>13202137785</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_PostemploymentBenefitObligations</account_id>
+        <account_nm>퇴직급여부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>31041183</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>48694300</frmtrm_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermBorrowingsGross</account_id>
+        <account_nm>장기차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>32000000000</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>32500000000</frmtrm_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherNoncurrentFinancialLiabilities</account_id>
+        <account_nm>기타비유동금융부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>1023320000</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>3928720000</frmtrm_amount>
+        <ord>31</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermTradeAndOtherNonCurrentPayables</account_id>
+        <account_nm>장기매입채무 및 기타비유동채무</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>2363561517</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>32</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_NonCurrentDerivativeLiabilities</account_id>
+        <account_nm>비유동파생상품부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>4253670191</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>33</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentLeaseLiabilities</account_id>
+        <account_nm>비유동리스부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>296183302</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>234174881</frmtrm_amount>
+        <ord>34</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Liabilities</account_id>
+        <account_nm>부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>176269533465</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>224248846749</frmtrm_amount>
+        <ord>35</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_EquityAttributableToOwnersOfParent</account_id>
+        <account_nm>지배기업의 소유주에게 귀속되는 자본</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>100275818616</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>90905149455</frmtrm_amount>
+        <ord>37</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_IssuedCapital</account_id>
+        <account_nm>자본금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>10805393000</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>10449491500</frmtrm_amount>
+        <ord>38</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_CapitalSurplus</account_id>
+        <account_nm>자본잉여금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>93214370443</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>85697743310</frmtrm_amount>
+        <ord>39</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_ElementsOfOtherStockholdersEquity</account_id>
+        <account_nm>기타자본구성요소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>-5181253230</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>-5150097895</frmtrm_amount>
+        <ord>40</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeLossAccumulatedAmount</account_id>
+        <account_nm>기타포괄손익누계액</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>60937929</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>5414153</frmtrm_amount>
+        <ord>41</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_RetainedEarnings</account_id>
+        <account_nm>이익잉여금(결손금)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>1376370474</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>-97401613</frmtrm_amount>
+        <ord>42</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncontrollingInterests</account_id>
+        <account_nm>비지배지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>4358384803</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>2925394267</frmtrm_amount>
+        <ord>43</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>자본총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>104634203419</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>93830543722</frmtrm_amount>
+        <ord>44</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_EquityAndLiabilities</account_id>
+        <account_nm>자본과부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기말</thstrm_nm>
+        <thstrm_amount>280903736884</thstrm_amount>
+        <frmtrm_nm>제 13 기말</frmtrm_nm>
+        <frmtrm_amount>318079390471</frmtrm_amount>
+        <ord>45</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_Revenue</account_id>
+        <account_nm>수익(매출액)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>71801582451</thstrm_amount>
+        <thstrm_add_amount>160471328585</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>38930391695</frmtrm_q_amount>
+        <frmtrm_add_amount>158321161520</frmtrm_add_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_CostOfSales</account_id>
+        <account_nm>매출원가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>65198395263</thstrm_amount>
+        <thstrm_add_amount>146417436659</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>32450060127</frmtrm_q_amount>
+        <frmtrm_add_amount>122890118034</frmtrm_add_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_GrossProfit</account_id>
+        <account_nm>매출총이익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>6603187188</thstrm_amount>
+        <thstrm_add_amount>14053891926</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>6480331568</frmtrm_q_amount>
+        <frmtrm_add_amount>35431043486</frmtrm_add_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_TotalSellingGeneralAdministrativeExpenses</account_id>
+        <account_nm>판매비와관리비</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>8657167744</thstrm_amount>
+        <thstrm_add_amount>24191533697</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>8459489777</frmtrm_q_amount>
+        <frmtrm_add_amount>26001120064</frmtrm_add_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OperatingIncomeLoss</account_id>
+        <account_nm>영업이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-2053980556</thstrm_amount>
+        <thstrm_add_amount>-10137641771</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1979158209</frmtrm_q_amount>
+        <frmtrm_add_amount>9429923422</frmtrm_add_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherGains</account_id>
+        <account_nm>기타영업외수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>177039845</thstrm_amount>
+        <thstrm_add_amount>10926752685</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>12138104</frmtrm_q_amount>
+        <frmtrm_add_amount>232889770</frmtrm_add_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherLosses</account_id>
+        <account_nm>기타영업외비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>114789347</thstrm_amount>
+        <thstrm_add_amount>168261719</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>23776438</frmtrm_q_amount>
+        <frmtrm_add_amount>238448880</frmtrm_add_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_FinanceIncome</account_id>
+        <account_nm>금융수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1758121078</thstrm_amount>
+        <thstrm_add_amount>4302415345</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>648132093</frmtrm_q_amount>
+        <frmtrm_add_amount>3137201112</frmtrm_add_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_FinanceCosts</account_id>
+        <account_nm>금융원가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>672818435</thstrm_amount>
+        <thstrm_add_amount>2275993123</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>754535686</frmtrm_q_amount>
+        <frmtrm_add_amount>3807663992</frmtrm_add_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossBeforeTax</account_id>
+        <account_nm>법인세비용차감전순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-906427415</thstrm_amount>
+        <thstrm_add_amount>2647271417</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-2097200136</frmtrm_q_amount>
+        <frmtrm_add_amount>8753901432</frmtrm_add_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_IncomeTaxExpenseContinuingOperations</account_id>
+        <account_nm>법인세비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>725232317</thstrm_amount>
+        <thstrm_add_amount>-259491206</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-617868278</frmtrm_q_amount>
+        <frmtrm_add_amount>-1271959294</frmtrm_add_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-1631659732</thstrm_amount>
+        <thstrm_add_amount>2906762623</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1479331858</frmtrm_q_amount>
+        <frmtrm_add_amount>10025860726</frmtrm_add_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_OtherComprehensiveIncome</account_id>
+        <account_nm>기타포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-209803</thstrm_amount>
+        <thstrm_add_amount>55523776</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-18960447</frmtrm_q_amount>
+        <frmtrm_add_amount>61848378</frmtrm_add_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax</account_id>
+        <account_nm>당기손익으로 재분류될 수 있는 항목(세후기타포괄손익)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-209803</thstrm_amount>
+        <thstrm_add_amount>55523776</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-18960447</frmtrm_q_amount>
+        <frmtrm_add_amount>61848378</frmtrm_add_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax</account_id>
+        <account_nm>해외사업장환산외환차이(세후기타포괄손익)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-209803</thstrm_amount>
+        <thstrm_add_amount>55523776</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-18960447</frmtrm_q_amount>
+        <frmtrm_add_amount>61848378</frmtrm_add_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncome</account_id>
+        <account_nm>총포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-1631869535</thstrm_amount>
+        <thstrm_add_amount>2962286399</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1498292305</frmtrm_q_amount>
+        <frmtrm_add_amount>10087709104</frmtrm_add_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossAttributableToOwnersOfParent</account_id>
+        <account_nm>지배기업의 소유주에게 귀속되는 당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-2565588889</thstrm_amount>
+        <thstrm_add_amount>1473772087</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1479331858</frmtrm_q_amount>
+        <frmtrm_add_amount>10025860726</frmtrm_add_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossAttributableToNoncontrollingInterests</account_id>
+        <account_nm>비지배지분에 귀속되는 당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>933929157</thstrm_amount>
+        <thstrm_add_amount>1432990536</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount></frmtrm_q_amount>
+        <frmtrm_add_amount></frmtrm_add_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent</account_id>
+        <account_nm>총 포괄손익, 지배기업의 소유주에게 귀속되는 지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-2565798692</thstrm_amount>
+        <thstrm_add_amount>1529295863</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1498292305</frmtrm_q_amount>
+        <frmtrm_add_amount>10087709104</frmtrm_add_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests</account_id>
+        <account_nm>총 포괄손익, 비지배지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>933929157</thstrm_amount>
+        <thstrm_add_amount>1432990536</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount></frmtrm_q_amount>
+        <frmtrm_add_amount></frmtrm_add_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_BasicEarningsLossPerShare</account_id>
+        <account_nm>기본주당이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-76</thstrm_amount>
+        <thstrm_add_amount>137</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-79</frmtrm_q_amount>
+        <frmtrm_add_amount>538</frmtrm_add_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_DilutedEarningsLossPerShare</account_id>
+        <account_nm>희석주당이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-65</thstrm_amount>
+        <thstrm_add_amount>152</thstrm_add_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-65</frmtrm_q_amount>
+        <frmtrm_add_amount>480</frmtrm_add_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInOperatingActivities</account_id>
+        <account_nm>영업활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-62483997698</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>28116336074</frmtrm_q_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProfitLossForStatementOfCashFlows</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>2906762623</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>10025860726</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_AdjustmentsForReconcileProfitLoss</account_id>
+        <account_nm>당기순이익조정을 위한 가감</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-676485674</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>14826429074</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities</account_id>
+        <account_nm>영업활동으로인한자산ㆍ부채의변동</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-63588792825</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>3223800034</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_InterestReceivedClassifiedAsOperatingActivities</account_id>
+        <account_nm>이자수취(영업)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>122325263</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>72886072</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_InterestPaidClassifiedAsOperatingActivities</account_id>
+        <account_nm>이자지급(영업)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-102282958</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>32639832</frmtrm_q_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities</account_id>
+        <account_nm>법인세납부(환급)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1350090043</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>0</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInInvestingActivities</account_id>
+        <account_nm>투자활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>17297557985</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-18810276601</frmtrm_q_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfShortTermFinancialInstruments</account_id>
+        <account_nm>단기금융상품의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>49712163030</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfLongTermFinancialInstruments</account_id>
+        <account_nm>장기금융상품의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>17743500</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfFairValueFinancialAsset</account_id>
+        <account_nm>당기손익인식금융자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2078825405</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_DecreaseInLoans</account_id>
+        <account_nm>대여금의 감소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>693056220</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>617260479</frmtrm_q_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_DecreaseInGuaranteeDeposits</account_id>
+        <account_nm>임차보증금의 감소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>709366808</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1597387675</frmtrm_q_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities</account_id>
+        <account_nm>선물계약, 선도계약, 옵션계약 및 스왑계약에 따른 현금유입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>815000000</frmtrm_q_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>37913092076</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>191348820</frmtrm_q_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfShortTermFinancialInstruments</account_id>
+        <account_nm>단기금융상품의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>54114832467</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>12122498</frmtrm_q_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfLongTermFinancialInstruments</account_id>
+        <account_nm>장기금융상품의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>84876881</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>106204824</frmtrm_q_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfFairValueFinancialAsset</account_id>
+        <account_nm>당기손익인식금융자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1300000000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>0</frmtrm_q_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities</account_id>
+        <account_nm>선물계약, 선도계약, 옵션계약 및 스왑계약에 따른 현금유출</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>334189209</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>134850000</frmtrm_q_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_IncreaseInLoans</account_id>
+        <account_nm>대여금의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>489052440</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>364117340</frmtrm_q_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_IncreaseInGuaranteeDeposits</account_id>
+        <account_nm>임차보증금의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1490875637</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>816749784</frmtrm_q_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfInvestmentsInSubsidiaries</account_id>
+        <account_nm>종속기업에 대한 투자자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23498000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>0</frmtrm_q_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>13628588460</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>21198949502</frmtrm_q_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities</account_id>
+        <account_nm>무형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>281950555</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1477105032</frmtrm_q_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInFinancingActivities</account_id>
+        <account_nm>재무활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-530719439</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>27155104698</frmtrm_q_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromShortTermBorrowings</account_id>
+        <account_nm>단기차입금의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>5000000000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>3000000000</frmtrm_q_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromLongTermBorrowings</account_id>
+        <account_nm>장기차입금의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>9500000000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>9200000000</frmtrm_q_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromConvertibleBonds</account_id>
+        <account_nm>전환사채의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>16000000000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>25000000000</frmtrm_q_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>유상증자</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>4000101000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>0</frmtrm_q_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromExerciseOfShareOptions</account_id>
+        <account_nm>주식선택권행사로 인한 현금유입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>228945127</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>467780938</frmtrm_q_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>자본금 유입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23498000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>0</frmtrm_q_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities</account_id>
+        <account_nm>차입금의 상환</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>34562500007</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2666666664</frmtrm_q_amount>
+        <ord>31</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_RepaymentsOfConvertibleBonds</account_id>
+        <account_nm>전환사채의 감소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount></thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>7200017288</frmtrm_q_amount>
+        <ord>32</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PaymentForStockIssueCost</account_id>
+        <account_nm>신주발행비 지급</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>12320</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>33</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities</account_id>
+        <account_nm>리스부채의 상환</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>720751239</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>645992288</frmtrm_q_amount>
+        <ord>34</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges</account_id>
+        <account_nm>환율변동효과 반영전 현금및현금성자산의 순증가(감소)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-45717159152</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>36461164171</frmtrm_q_amount>
+        <ord>35</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산에 대한 환율변동효과</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1729845111</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>65801189</frmtrm_q_amount>
+        <ord>36</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseInCashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산의순증가(감소)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-43987314041</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>36526965360</frmtrm_q_amount>
+        <ord>37</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtBeginningOfPeriodCf</account_id>
+        <account_nm>기초현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>80035674775</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>7665843913</frmtrm_q_amount>
+        <ord>38</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtEndOfPeriodCf</account_id>
+        <account_nm>기말현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>36048360734</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>44192809273</frmtrm_q_amount>
+        <ord>39</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-97401613</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-4732146025</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>85697743310</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>58648530098</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>10449491500</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>9176594000</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>5414153</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>8497685</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-5150097895</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-4852718774</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>90905149455</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>58248756984</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>2925394267</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>93830543722</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>58248756984</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-1631659732</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1479331858</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1473772087</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>10025860727</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1432990536</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>당기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1473772087</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>10025860727</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>주식매수선택권 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>228945127</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>467780939</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>주식매수선택권 행사</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>228945127</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>467780939</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>주식매수선택권 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23721500</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>64473000</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>주식매수선택권 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-42318761</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>398856513</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>주식매수선택권 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>247542388</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>802164452</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>전환사채 행사</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>7577766745</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2999995712</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>전환사채 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>7269084745</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2803042212</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>전환사채 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>308682000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>196953500</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>전환사채 행사</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>7577766745</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2999995712</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>유상증자</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23498000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>유상증자</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23498000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>유상증자</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>23498000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ChangesInForeignExchangeRates</account_id>
+        <account_nm>해외사업장환산차이</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>55523776</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>61848378</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ChangesInForeignExchangeRates</account_id>
+        <account_nm>해외사업장환산차이</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>55523776</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>61848378</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ChangesInForeignExchangeRates</account_id>
+        <account_nm>해외사업장환산차이</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>55523776</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>61848378</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ShareBasedPaymentTransactions</account_id>
+        <account_nm>주식기준보상거래</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>11163426</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>89802904</frmtrm_q_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ShareBasedPaymentTransactions</account_id>
+        <account_nm>주식기준보상거래</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>11163426</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>89802904</frmtrm_q_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_ShareBasedPaymentTransactions</account_id>
+        <account_nm>주식기준보상거래</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>11163426</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>89802904</frmtrm_q_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>60937929</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>70346063</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>93214370443</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>62253736762</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>10805393000</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>9438020500</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>1376370474</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>5293714702</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>104634203419</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>71894045644</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>-5181253230</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>5161772383</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>100275818616</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <frmtrm_q_amount>71894045644</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20211115002447</rcept_no>
+        <reprt_code>11014</reprt_code>
+        <bsns_year>2021</bsns_year>
+        <corp_code>00938721</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 14 기 3분기</thstrm_nm>
+        <thstrm_amount>4358384803</thstrm_amount>
+        <frmtrm_q_nm>제 13 기 3분기</frmtrm_q_nm>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+</result>

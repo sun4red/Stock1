@@ -1,4 +1,4 @@
-package api.data;
+package api.stock.model;
 
 import lombok.Data;
 

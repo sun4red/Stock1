@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import api.model.MDartCorpcode;
+import api.dart.model.DartCorpcodeDTO;
 import database.DBConnectionManager;
 import utility.EnvReader;
 
@@ -23,7 +23,7 @@ public class DBDartCorpcode {
         return DriverManager.getConnection(mssql_url, mssql_user, mssql_password);
     }
 
-    public int insertCorpCode(MDartCorpcode mDartCorpcode) {
+    public int insertCorpCode(DartCorpcodeDTO mDartCorpcode) {
         int result = 0;
 
         String sql = "INSERT INTO CORPCODE (corp_code, corp_name, stock_code, modify_date) VALUES (?, ?, ?, ?)";
@@ -37,8 +37,8 @@ public class DBDartCorpcode {
         return result;
     }
 
-    public List<MDartCorpcode> selectCorpcode() {
-        List<MDartCorpcode> result = new ArrayList<>();
+    public List<DartCorpcodeDTO> selectCorpcode() {
+        List<DartCorpcodeDTO> result = new ArrayList<>();
 
         String sql = "SELECT * FROM CORPCODE";
 
@@ -51,7 +51,7 @@ public class DBDartCorpcode {
 
             while (rs.next()) {
 
-                MDartCorpcode mDartCorpcode = new MDartCorpcode();
+                DartCorpcodeDTO mDartCorpcode = new DartCorpcodeDTO();
 
                 String corp_code = rs.getString("corp_code");
                 String corp_name = rs.getString("corp_name");

@@ -121,10 +121,30 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
                             String account_detail = element.getElementsByTagName("account_detail").item(0).getTextContent();
                             String thstrm_nm = element.getElementsByTagName("thstrm_nm").item(0).getTextContent();
                             String thstrm_amount = element.getElementsByTagName("thstrm_amount").item(0).getTextContent();
-                            String frmtrm_nm = element.getElementsByTagName("frmtrm_nm").item(0).getTextContent();
-                            String frmtrm_amount = element.getElementsByTagName("frmtrm_amount").item(0).getTextContent();
-                            String bfefrmtrm_nm = element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent();
-                            String bfefrmtrm_amount = element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent();
+                            
+                            
+                            String frmtrm_nm = "";
+                            if (element.getElementsByTagName("frmtrm_nm").item(0).getTextContent() != null 
+                            && !element.getElementsByTagName("frmtrm_nm").item(0).getTextContent().isEmpty()){
+                                frmtrm_nm = element.getElementsByTagName("frmtrm_nm").item(0).getTextContent();
+                            }
+                            String frmtrm_amount = "";
+                            if (element.getElementsByTagName("frmtrm_amount").item(0).getTextContent() != null 
+                            && !element.getElementsByTagName("frmtrm_amount").item(0).getTextContent().isEmpty()){
+                                frmtrm_amount = element.getElementsByTagName("frmtrm_amount").item(0).getTextContent();
+                            }  
+                            String bfefrmtrm_nm = "";
+                            if (element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent() != null 
+                            && !element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent().isEmpty()){
+                                bfefrmtrm_nm = element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent();
+                            }  
+                            String bfefrmtrm_amount = "";
+                            if (element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent() != null 
+                            && !element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent().isEmpty()){
+                                bfefrmtrm_amount = element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent();
+                            }
+
+          
                             String ord = element.getElementsByTagName("ord").item(0).getTextContent();
                             String currency = element.getElementsByTagName("currency").item(0).getTextContent();
 
@@ -150,10 +170,11 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
                         }
                     }
                 } else {
-                    System.out.println("xml 데이터 비정상: " + filePath);
+                    System.out.println("xml 데이터 확인: " + filePath);
                 }
 
             } catch (Exception e) {
+                System.out.println("DB Insert 실패: " + filePath);
                 e.printStackTrace();
             }
         } else {

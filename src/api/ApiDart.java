@@ -1,6 +1,6 @@
 package api;
 
-import api.dart.model.DartReportRequest;
+import api.dart.model.DartListRequest;
 import utility.EnvReader;
 
 public class ApiDart {
@@ -9,7 +9,7 @@ public class ApiDart {
         private final String crtfc_key = EnvReader.readEnv().get("OpenDartKey");
 
         // 공시정보
-        public String dartReports(DartReportRequest dartReportRequest) {
+        public String dartReports(DartListRequest dartReportRequest) {
 
                 // String apiUrl = "https://opendart.fss.or.kr/api/list.json";
                 String apiUrl = "https://opendart.fss.or.kr/api/list.xml";

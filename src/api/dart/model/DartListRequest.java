@@ -1,9 +1,9 @@
-package api.data;
+package api.dart.model;
 
 import lombok.Data;
 
 @Data
-public class DartReportRequest {
+public class DartListRequest {
 
     // 필수
     private String crtfc_key;

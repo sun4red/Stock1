@@ -34,10 +34,9 @@ public class UpdateFnlttSinglAcntAll {
             }
         } else {
             data = new ApiClient().getResponse(urlString);
-        }
-
-        if (data.equals("")) {
-            System.out.println("API 연결 확인 필요: " + filePath);
+            if (data.equals("")) {
+                System.out.println("API 연결 확인 필요: " + filePath);
+            }
         }
 
         if (!data.equals("")) {
@@ -48,26 +47,33 @@ public class UpdateFnlttSinglAcntAll {
 
         if (!status.equals("000")) {
             System.out.println("데이터 확인 필요: " + filePath);
+            if (status.equals("013")) {
+                SaveDataFile.getInstance().deleteFile(filePath);
+            }
         }
 
         return result;
     }
 
+    // #Overloaded
+    // 기간(연), 사업보고서 반복
     public int newXmlData(int startYear, int endYear, String corp_code, String fs_div) {
         int result = 0;
 
+        String[] reprt_codes = { "11011", "11012", "11013", "11014" };
 
+        for (int year = startYear; year <= endYear; year++) {
+            for (String reprt_code : reprt_codes) {
+                String bsns_year = Integer.toString(year);
+                result += newXmlData(corp_code, bsns_year, reprt_code, fs_div);
+            }
+        }
 
-
-
-
-
-        
         return result;
     }
 
     // DB
-    public int updateData(String corp_code) {
+    public int xmlToDB(String corp_code) {
         int result = 0;
 
         DataFileManagerFnlttSinglAcntAll dataFileManager = new DataFileManagerFnlttSinglAcntAll();

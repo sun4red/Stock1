@@ -1,3 +1,4 @@
+package api.stock.model;
 //package make.money.stock1.api.data;
 //
 //import jakarta.xml.bind.annotation.XmlAccessType;

@@ -12,8 +12,8 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import api.dart.model.DartCorpcodeDTO;
 import api.data.ReadData;
-import api.model.MDartCorpcode;
 import database.DBConnection;
 import database.dart.DBDartCorpcode;
 
@@ -86,7 +86,7 @@ public class Main2 {
         // }
 
         DBDartCorpcode dbDartCorpcode = new DBDartCorpcode();
-        List<MDartCorpcode> selectList = dbDartCorpcode.selectCorpcode();
+        List<DartCorpcodeDTO> selectList = dbDartCorpcode.selectCorpcode();
 
         System.out.println(selectList);
 

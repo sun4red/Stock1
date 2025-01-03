@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import api.model.MDartCorpcode;
+import api.dart.model.DartCorpcodeDTO;
 import utility.EnvReader;
 
 public class DBConnection {
@@ -16,7 +16,7 @@ public class DBConnection {
     private static final String mssql_user = EnvReader.readEnv().get("MSSQL_USER");
     private static final String mssql_password = EnvReader.readEnv().get("MSSQL_PASSWORD");
 
-    public int insertDCorpCode(MDartCorpcode mDartCorpcode) {
+    public int insertDCorpCode(DartCorpcodeDTO mDartCorpcode) {
         Connection connection = null;
         int inserted = 0;
 
