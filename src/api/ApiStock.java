@@ -5,7 +5,7 @@ import utility.EnvReader;
 public class ApiStock {
 
     EnvReader envReader = new EnvReader();
-    private final String serviceKey = EnvReader.readEnv().get("StockPriceInfoKey");
+    private final String serviceKey = EnvReader.readEnv().get("DataGOKRKey");
 
     // 주식시세 Stock
     public String stockPrice() {

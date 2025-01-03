@@ -93,7 +93,6 @@ public class UpdateFnlttSinglAcntAll {
 
             DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
             String rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no(reprt_code, bsns_year, corp_code);
-            System.out.println(rcept_no);
 
             if (rcept_no.isEmpty() || rcept_no == null) {
 
@@ -102,8 +101,15 @@ public class UpdateFnlttSinglAcntAll {
                 list = dataFileManager.readXmlFile(directory + fileName);
 
                 if (!list.isEmpty()) {
+                    try{
                     dbDartFnlttSinglAcntAll.insertList(list);
                     System.out.println("DB insert: " + fileName);
+                    }catch(Exception e){
+                        rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no(reprt_code, bsns_year, corp_code);
+                        dbDartFnlttSinglAcntAll.delete(rcept_no);
+                        System.out.println("오류 발생, delete rcept_no: " + rcept_no);
+                        e.printStackTrace();
+                    }
                 }
 
             } else {

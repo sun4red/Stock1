@@ -105,76 +105,17 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
 
                     for (int i = 0; i < nodeList.getLength(); i++) {
                         Node node = nodeList.item(i);
-                        DartFnlttSinglAcntAllDTO dto = new DartFnlttSinglAcntAllDTO();
+                         DartFnlttSinglAcntAllDTO dto = parseNodeToDTO(node);
 
-                        if (node.getNodeType() == Node.ELEMENT_NODE) {
-                            Element element = (Element) node;
-
-                            String rcept_no = element.getElementsByTagName("rcept_no").item(0).getTextContent();
-                            String reprt_code = element.getElementsByTagName("reprt_code").item(0).getTextContent();
-                            String bsns_year = element.getElementsByTagName("bsns_year").item(0).getTextContent();
-                            String corp_code = element.getElementsByTagName("corp_code").item(0).getTextContent();
-                            String sj_div = element.getElementsByTagName("sj_div").item(0).getTextContent();
-                            String sj_nm = element.getElementsByTagName("sj_nm").item(0).getTextContent();
-                            String account_id = element.getElementsByTagName("account_id").item(0).getTextContent();
-                            String account_nm = element.getElementsByTagName("account_nm").item(0).getTextContent();
-                            String account_detail = element.getElementsByTagName("account_detail").item(0).getTextContent();
-                            String thstrm_nm = element.getElementsByTagName("thstrm_nm").item(0).getTextContent();
-                            String thstrm_amount = element.getElementsByTagName("thstrm_amount").item(0).getTextContent();
-                            
-                            
-                            String frmtrm_nm = "";
-                            if (element.getElementsByTagName("frmtrm_nm").item(0).getTextContent() != null 
-                            && !element.getElementsByTagName("frmtrm_nm").item(0).getTextContent().isEmpty()){
-                                frmtrm_nm = element.getElementsByTagName("frmtrm_nm").item(0).getTextContent();
-                            }
-                            String frmtrm_amount = "";
-                            if (element.getElementsByTagName("frmtrm_amount").item(0).getTextContent() != null 
-                            && !element.getElementsByTagName("frmtrm_amount").item(0).getTextContent().isEmpty()){
-                                frmtrm_amount = element.getElementsByTagName("frmtrm_amount").item(0).getTextContent();
-                            }  
-                            String bfefrmtrm_nm = "";
-                            if (element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent() != null 
-                            && !element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent().isEmpty()){
-                                bfefrmtrm_nm = element.getElementsByTagName("bfefrmtrm_nm").item(0).getTextContent();
-                            }  
-                            String bfefrmtrm_amount = "";
-                            if (element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent() != null 
-                            && !element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent().isEmpty()){
-                                bfefrmtrm_amount = element.getElementsByTagName("bfefrmtrm_amount").item(0).getTextContent();
-                            }
-
-          
-                            String ord = element.getElementsByTagName("ord").item(0).getTextContent();
-                            String currency = element.getElementsByTagName("currency").item(0).getTextContent();
-
-                            dto.setRcept_no(rcept_no);
-                            dto.setReprt_code(reprt_code);
-                            dto.setBsns_year(bsns_year);
-                            dto.setCorp_code(corp_code);
-                            dto.setSj_div(sj_div);
-                            dto.setSj_nm(sj_nm);
-                            dto.setAccount_id(account_id);
-                            dto.setAccount_nm(account_nm);
-                            dto.setAccount_detail(account_detail);
-                            dto.setThstrm_nm(thstrm_nm);
-                            dto.setThstrm_amount(thstrm_amount);
-                            dto.setFrmtrm_nm(frmtrm_nm);
-                            dto.setFrmtrm_amount(frmtrm_amount);
-                            dto.setBfefrmtrm_nm(bfefrmtrm_nm);
-                            dto.setBfefrmtrm_amount(bfefrmtrm_amount);
-                            dto.setOrd(ord);
-                            dto.setCurrency(currency);
-
-                            list.add(dto);
-                        }
+                       list.add(dto);
+                    
                     }
                 } else {
                     System.out.println("xml 데이터 확인: " + filePath);
                 }
 
             } catch (Exception e) {
-                System.out.println("DB Insert 실패: " + filePath);
+                System.out.println("오류 파일: " + filePath);
                 e.printStackTrace();
             }
         } else {
@@ -183,6 +124,34 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
 
         return list;
     }
+
+    private DartFnlttSinglAcntAllDTO parseNodeToDTO(Node node) {
+        DartFnlttSinglAcntAllDTO dto = new DartFnlttSinglAcntAllDTO();
+        if (node.getNodeType() == Node.ELEMENT_NODE) {
+            Element element = (Element) node;
+    
+            // getTagValue 메소드로 태그가 없는 경우 "" 공백으로 처리
+            dto.setRcept_no(getTagValue(element, "rcept_no"));
+            dto.setReprt_code(getTagValue(element, "reprt_code"));
+            dto.setBsns_year(getTagValue(element, "bsns_year"));
+            dto.setCorp_code(getTagValue(element, "corp_code"));
+            dto.setSj_div(getTagValue(element, "sj_div"));
+            dto.setSj_nm(getTagValue(element, "sj_nm"));
+            dto.setAccount_id(getTagValue(element, "account_id"));
+            dto.setAccount_nm(getTagValue(element, "account_nm"));
+            dto.setAccount_detail(getTagValue(element, "account_detail"));
+            dto.setThstrm_nm(getTagValue(element, "thstrm_nm"));
+            dto.setThstrm_amount(getTagValue(element, "thstrm_amount"));
+            dto.setFrmtrm_nm(getTagValue(element, "frmtrm_nm"));
+            dto.setFrmtrm_amount(getTagValue(element, "frmtrm_amount"));
+            dto.setBfefrmtrm_nm(getTagValue(element, "bfefrmtrm_nm"));
+            dto.setBfefrmtrm_amount(getTagValue(element, "bfefrmtrm_amount"));
+            dto.setOrd(getTagValue(element, "ord"));
+            dto.setCurrency(getTagValue(element, "currency"));
+        }
+        return dto;
+    }
+
 
     // #OverLoaded
     public List<DartFnlttSinglAcntAllDTO> readXmlFile(String corp_code, String bsns_year, String reprt_code,
