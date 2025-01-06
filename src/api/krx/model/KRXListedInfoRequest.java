@@ -3,12 +3,12 @@ package api.krx.model;
 import lombok.Data;
 
 @Data
-public class KRXListedInfoRequestDTO {
+public class KRXListedInfoRequest {
     
 private String numOfRows;       //  한 페이지 결과 수   4
 private String pageNo;          //  페이지 번호 4
 private String resultType;      //  결과형식   4
-private String serviceKey;      //  서비스키(필수수)   400
+private String serviceKey;      //  서비스키(필수)   400
 private String basDt;           //  기준일자    8
 private String beginBasDt;      //  기준일자   8
 private String endBasDt;        //  기준일자 8

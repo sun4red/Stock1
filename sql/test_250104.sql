@@ -7,3 +7,5 @@ delete from [dbo].[FnlttSinglAcntAll];
 select * from [dbo].[FnlttSinglAcntAll];
 
 -- 행 개수 일치
+
+select * from [dbo].[CORPCODE];
