@@ -148,3 +148,31 @@ OpenApi 상장사 조회시 KONEX가 나와 결과가 너무 많음
 25.01.08.
 
 비슷한 형태의 클래스가 자꾸 만들어지는 것 같아 인터페이스를 사용해야할지 생각이 들지만 기능 개발 우선
+
+==================================================
+25.01.09.
+
+각 기능을 private 으로 만들고 반복문을 돌리는 overloaded method를 public으로 작업?
+
+기능 정리
+1. api
+    api url 작성
+2. http 통신
+    (api url)
+3. xml 파일
+    3.1) xml 파일 저장
+    3.2) xml 파일 읽기
+        3.2-1) data 읽기
+        3.2-2) status(정상) 조회
+    3.3) xml 파일 삭제
+4. DB
+    4.1) DB insert
+    4.2) DB select
+    4.3) DB delete
+
+작업 
+case1. 데이터 업데이트)
+        api 데이터 요청 -> xml 파일 저장 -> DB insert
+        (api url)->(http)->{반복(xml save)}->{반복(xml read)}->DB insert
+
+case2. 데이터 가공
