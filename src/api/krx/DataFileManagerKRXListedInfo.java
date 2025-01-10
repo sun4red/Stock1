@@ -13,7 +13,6 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 import api.DataFileManager;
-import api.dart.model.DartFnlttSinglAcntAllDTO;
 import api.krx.model.KRXListedInfoDTO;
 
 public class DataFileManagerKRXListedInfo extends DataFileManager {

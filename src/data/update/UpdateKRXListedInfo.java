@@ -2,11 +2,14 @@ package data.update;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.List;
 
 import api.ApiKRX;
 import api.SaveDataFile;
 import api.krx.DataFileManagerKRXListedInfo;
+import api.krx.model.KRXListedInfoDTO;
 import api.krx.model.KRXListedInfoRequest;
+import database.krx.KRXListedInfoDAO;
 import http.ApiClient;
 
 public class UpdateKRXListedInfo {
@@ -64,6 +67,32 @@ public class UpdateKRXListedInfo {
                 System.out.println("TotalCount: " + totalCount);
                 break;
             }
+        }
+
+        return result;
+    }
+
+    // #Base Method
+    // 중복회사 문제 발생
+    public int xmlToDB(String beginBasDt, String endBasDt, String pageNo, String resultType) {
+        int result = 0;
+
+        DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();
+        String filePath = dfm.filePath(beginBasDt, endBasDt, pageNo, resultType);
+
+        List<KRXListedInfoDTO> list = dfm.readXmlFile(filePath);
+        KRXListedInfoDAO dao = new KRXListedInfoDAO();
+        for (int i = 0; i < list.size(); i++) {
+
+            KRXListedInfoDTO dto = list.get(i);
+
+            // KOSPI, KOSDAQ만 DB에 Insert
+            if (dto.getMrktCtg().equals("KOSPI") || dto.getMrktCtg().equals("KOSDAQ")) {
+                result += dao.insert(dto);
+            } else if (dto.getMrktCtg().equals("KONEX")) {
+                // KONEX insert X
+            }
+
         }
 
         return result;
