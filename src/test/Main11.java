@@ -17,7 +17,7 @@ DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();
 String filePath = dfm.filePath("20241208", "20250108","2","xml");
 
 
-        list = new DataFileManagerKRXListedInfo().readXmlFile(filePath);
+        // list = new DataFileManagerKRXListedInfo().readXmlFile(filePath);
 
         // KRXListedInfoDTO dto = list.get(0);
 
@@ -26,8 +26,9 @@ String filePath = dfm.filePath("20241208", "20250108","2","xml");
         // dao.insert(dto);
 
 UpdateKRXListedInfo update = new UpdateKRXListedInfo();
+update.newXmlData();
 
-int result = update.xmlToDB("20241208", "20250108","2","xml");
+int result = update.xmlToDB("20241111", "20250111");
 System.out.println(result);
 
     }

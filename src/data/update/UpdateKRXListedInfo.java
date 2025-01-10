@@ -2,13 +2,17 @@ package data.update;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import api.ApiKRX;
 import api.SaveDataFile;
 import api.krx.DataFileManagerKRXListedInfo;
 import api.krx.model.KRXListedInfoDTO;
 import api.krx.model.KRXListedInfoRequest;
+import api.krx.model.KRXListedInfoSetDTO;
 import database.krx.KRXListedInfoDAO;
 import http.ApiClient;
 
@@ -39,11 +43,12 @@ public class UpdateKRXListedInfo {
 
     // #OverLoaded
     // 최근 1개월, 10000개, 5page
+    // 수정 2개월 20페이지지
     public int newXmlData() {
         int result = 0;
 
         LocalDate today = LocalDate.now();
-        LocalDate lastMonth = today.minusMonths(1);
+        LocalDate lastMonth = today.minusMonths(2);
         DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("yyyyMMdd");
         String endBasDt = today.format(dateTimeFormatter);
         String beginBasDt = lastMonth.format(dateTimeFormatter);
@@ -54,7 +59,8 @@ public class UpdateKRXListedInfo {
 
         DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();
 
-        for (int i = 1; i <= 10; i++) {
+        // 페이지 수 저장 객체 필요
+        for (int i = 1; i <= 20; i++) {
 
             pageNo = Integer.toString(i);
 
@@ -73,18 +79,20 @@ public class UpdateKRXListedInfo {
     }
 
     // #Base Method
-    // 중복회사 문제 발생
-    public int xmlToDB(String beginBasDt, String endBasDt, String pageNo, String resultType) {
+        public int xmlToDB(String beginBasDt, String endBasDt) {
         int result = 0;
 
         DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();
-        String filePath = dfm.filePath(beginBasDt, endBasDt, pageNo, resultType);
 
-        List<KRXListedInfoDTO> list = dfm.readXmlFile(filePath);
+        KRXListedInfoSetDTO setDTO = dfm.readXmlFile(beginBasDt, endBasDt);
+        List<String> isinCdList = setDTO.getIsinCdList();
+        Map<String, KRXListedInfoDTO> dtoMap = setDTO.getDtoMap();
+
         KRXListedInfoDAO dao = new KRXListedInfoDAO();
-        for (int i = 0; i < list.size(); i++) {
+        for (int i = 0; i < isinCdList.size(); i++) {
 
-            KRXListedInfoDTO dto = list.get(i);
+            String isinCd = isinCdList.get(i);
+            KRXListedInfoDTO dto = dtoMap.get(isinCd);
 
             // KOSPI, KOSDAQ만 DB에 Insert
             if (dto.getMrktCtg().equals("KOSPI") || dto.getMrktCtg().equals("KOSDAQ")) {

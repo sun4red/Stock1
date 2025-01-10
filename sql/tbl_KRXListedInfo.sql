@@ -20,3 +20,14 @@ CREATE TABLE [dbo].[KRXListedInfo](
 GO
 
 
+select * from [dbo].[KRXListedInfo];
+
+delete from [dbo].[KRXListedInfo] where 1=1;
+
+select distinct(isinCd) from [dbo].[KRXListedInfo];
+
+select distinct(isinCd) from [dbo].[KRXListedInfo];
+
+
+select * from [dbo].[KRXListedInfo] where mrktCtg = 'KOSPI';
+select * from [dbo].[KRXListedInfo] where mrktCtg = 'KOSDAQ';
