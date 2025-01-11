@@ -192,3 +192,27 @@ insert 전 처리 방법 필요
 027970 <- 현재 사용
 
 max(modify_date)로 처리
+
+파일 구조 개선
+src
+    model
+        dart
+            fnlttSinglAcntallDTO.
+            corpCodeDTO.    (현재 stock으로 잘못 분류함)
+        krx
+            listedInfoDTO.
+        stock
+    db
+        connection.
+        dart
+            fnlttSinglAcntallDAO.
+            corpCodeDAO.    (현재 stock으로 잘못 분류함)
+        krx
+            listedInfoDAO
+        stock
+    api
+        urlMaker.
+        apiClient.
+    filesystem
+    config
+    service
