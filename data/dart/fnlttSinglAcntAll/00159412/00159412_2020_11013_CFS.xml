@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <status>000</status>
+    <message>정상</message>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentAssets</account_id>
+        <account_nm>유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>384333495773</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>379342877451</frmtrm_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>48442462030</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>31445716222</frmtrm_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_TradeAndOtherCurrentReceivables</account_id>
+        <account_nm>매출채권및기타채권</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>178739384224</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>187743478713</frmtrm_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition</account_id>
+        <account_nm>당기손익-공정가치측정금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>9974301443</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>8020884563</frmtrm_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherCurrentFinancialAssets</account_id>
+        <account_nm>기타금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>3879733821</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>5655957990</frmtrm_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Inventories</account_id>
+        <account_nm>재고자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>135527321020</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>140437054871</frmtrm_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentTaxAssets</account_id>
+        <account_nm>당기법인세자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>43365380</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentAssets</account_id>
+        <account_nm>기타자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>7726927855</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>6039785092</frmtrm_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentAssets</account_id>
+        <account_nm>비유동자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>480660450530</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>471291653722</frmtrm_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome</account_id>
+        <account_nm>기타포괄손익-공정가치측정금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>307000000</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>307000000</frmtrm_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition</account_id>
+        <account_nm>당기손익-공정가치측정금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>1093929638</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>1355790498</frmtrm_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherNoncurrentFinancialAssets</account_id>
+        <account_nm>기타금융자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>3555604395</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>3675514395</frmtrm_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_InvestmentsInAssociates</account_id>
+        <account_nm>공동기업 및 관계기업투자</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>32243236349</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>31826394505</frmtrm_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_InvestmentProperty</account_id>
+        <account_nm>투자부동산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>15275697861</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>15285872149</frmtrm_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_PropertyPlantAndEquipment</account_id>
+        <account_nm>유형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>405626543901</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>402307384860</frmtrm_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_IntangibleAssetsOtherThanGoodwill</account_id>
+        <account_nm>무형자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>15938972423</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>16505961750</frmtrm_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherNonCurrentAssets</account_id>
+        <account_nm>기타자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>6619465963</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>27735565</frmtrm_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Assets</account_id>
+        <account_nm>자산총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>864993946303</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>850634531173</frmtrm_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentLiabilities</account_id>
+        <account_nm>유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>253738893137</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>269185217266</frmtrm_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_TradeAndOtherCurrentPayables</account_id>
+        <account_nm>매입채무및기타채무</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>63500626838</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>78797586543</frmtrm_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_ShorttermBorrowings</account_id>
+        <account_nm>차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>168810181947</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>170769381634</frmtrm_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentLeaseLiabilities</account_id>
+        <account_nm>리스부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>2181085002</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>2669862725</frmtrm_amount>
+        <ord>23</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherCurrentFinancialLiabilities</account_id>
+        <account_nm>기타금융부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>11450119151</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>9158935608</frmtrm_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentContractLiabilities</account_id>
+        <account_nm>환불부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>836553267</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>1255865091</frmtrm_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentProvisions</account_id>
+        <account_nm>충당부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>411745996</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>26</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_CurrentTaxLiabilities</account_id>
+        <account_nm>당기법인세부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>1854476008</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>1163637603</frmtrm_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCurrentLiabilities</account_id>
+        <account_nm>기타부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>4694104928</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>5369948062</frmtrm_amount>
+        <ord>28</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentLiabilities</account_id>
+        <account_nm>비유동부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>118040670753</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>94313380099</frmtrm_amount>
+        <ord>29</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_LongTermBorrowingsGross</account_id>
+        <account_nm>차입금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>67810944822</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>50519886123</frmtrm_amount>
+        <ord>30</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentLeaseLiabilities</account_id>
+        <account_nm>리스부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>13145753723</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>13295404112</frmtrm_amount>
+        <ord>31</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_OtherNoncurrentFinancialLiabilities</account_id>
+        <account_nm>기타금융부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>180000000</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount></frmtrm_amount>
+        <ord>32</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_PostemploymentBenefitObligations</account_id>
+        <account_nm>순확정급여부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>4723469497</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>627607277</frmtrm_amount>
+        <ord>33</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncurrentProvisionsForEmployeeBenefits</account_id>
+        <account_nm>기타장기종업원급여부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>1797674987</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>1801482498</frmtrm_amount>
+        <ord>34</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_DeferredTaxLiabilities</account_id>
+        <account_nm>이연법인세부채</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>30382827724</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>28069000089</frmtrm_amount>
+        <ord>35</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Liabilities</account_id>
+        <account_nm>부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>371779563890</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>363498597365</frmtrm_amount>
+        <ord>36</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_EquityAttributableToOwnersOfParent</account_id>
+        <account_nm>지배기업 소유주지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>442536106451</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>436102212770</frmtrm_amount>
+        <ord>38</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_IssuedCapital</account_id>
+        <account_nm>자본금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>25024745000</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>25024745000</frmtrm_amount>
+        <ord>39</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_CapitalSurplus</account_id>
+        <account_nm>자본잉여금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>32467900107</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>32467900107</frmtrm_amount>
+        <ord>40</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherCapitalAdjustments</account_id>
+        <account_nm>자본조정</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>-7459701527</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>-8207216769</frmtrm_amount>
+        <ord>41</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeLossAccumulatedAmount</account_id>
+        <account_nm>기타포괄손익누계액</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>-495552766</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>-2453934947</frmtrm_amount>
+        <ord>42</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_RetainedEarnings</account_id>
+        <account_nm>이익잉여금</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>392998715637</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>389270719379</frmtrm_amount>
+        <ord>43</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_NoncontrollingInterests</account_id>
+        <account_nm>비지배지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>50678275962</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>51033721038</frmtrm_amount>
+        <ord>44</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>자본총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>493214382413</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>487135933808</frmtrm_amount>
+        <ord>45</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>BS</sj_div>
+        <sj_nm>재무상태표</sj_nm>
+        <account_id>ifrs-full_EquityAndLiabilities</account_id>
+        <account_nm>자본과부채총계</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기말</thstrm_nm>
+        <thstrm_amount>864993946303</thstrm_amount>
+        <frmtrm_nm>제 64 기말</frmtrm_nm>
+        <frmtrm_amount>850634531173</frmtrm_amount>
+        <ord>46</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_Revenue</account_id>
+        <account_nm>매출액</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>203103305630</thstrm_amount>
+        <thstrm_add_amount>203103305630</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>177042693587</frmtrm_q_amount>
+        <frmtrm_add_amount>177042693587</frmtrm_add_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_CostOfSales</account_id>
+        <account_nm>매출원가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>169110009823</thstrm_amount>
+        <thstrm_add_amount>169110009823</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>165399030090</frmtrm_q_amount>
+        <frmtrm_add_amount>165399030090</frmtrm_add_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_GrossProfit</account_id>
+        <account_nm>매출총이익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>33993295807</thstrm_amount>
+        <thstrm_add_amount>33993295807</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>11643663497</frmtrm_q_amount>
+        <frmtrm_add_amount>11643663497</frmtrm_add_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_TotalSellingGeneralAdministrativeExpenses</account_id>
+        <account_nm>판매비와 관리비</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>23066150857</thstrm_amount>
+        <thstrm_add_amount>23066150857</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>18086483253</frmtrm_q_amount>
+        <frmtrm_add_amount>18086483253</frmtrm_add_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>대손충당금환입(대손상각비)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-159347086</thstrm_amount>
+        <thstrm_add_amount>-159347086</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>160707235</frmtrm_q_amount>
+        <frmtrm_add_amount>160707235</frmtrm_add_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OperatingIncomeLoss</account_id>
+        <account_nm>영업이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>10767797864</thstrm_amount>
+        <thstrm_add_amount>10767797864</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-6282112521</frmtrm_q_amount>
+        <frmtrm_add_amount>-6282112521</frmtrm_add_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherGains</account_id>
+        <account_nm>기타수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4598310607</thstrm_amount>
+        <thstrm_add_amount>4598310607</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2694763557</frmtrm_q_amount>
+        <frmtrm_add_amount>2694763557</frmtrm_add_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherLosses</account_id>
+        <account_nm>기타비용</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6136574607</thstrm_amount>
+        <thstrm_add_amount>6136574607</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>2674505468</frmtrm_q_amount>
+        <frmtrm_add_amount>2674505468</frmtrm_add_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>이자수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>78265659</thstrm_amount>
+        <thstrm_add_amount>78265659</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>131071396</frmtrm_q_amount>
+        <frmtrm_add_amount>131071396</frmtrm_add_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_FinanceIncome</account_id>
+        <account_nm>금융수익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>31416879</thstrm_amount>
+        <thstrm_add_amount>31416879</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>11952708</frmtrm_q_amount>
+        <frmtrm_add_amount>11952708</frmtrm_add_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_FinanceCosts</account_id>
+        <account_nm>금융원가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1711205515</thstrm_amount>
+        <thstrm_add_amount>1711205515</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1515329976</frmtrm_q_amount>
+        <frmtrm_add_amount>1515329976</frmtrm_add_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>관계기업지분법이익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>852446991</thstrm_amount>
+        <thstrm_add_amount>852446991</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>325755788</frmtrm_q_amount>
+        <frmtrm_add_amount>325755788</frmtrm_add_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossBeforeTax</account_id>
+        <account_nm>법인세비용차감전순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>8480457878</thstrm_amount>
+        <thstrm_add_amount>8480457878</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-7308404516</frmtrm_q_amount>
+        <frmtrm_add_amount>-7308404516</frmtrm_add_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_IncomeTaxExpenseContinuingOperations</account_id>
+        <account_nm>법인세비용(수익)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>3657652103</thstrm_amount>
+        <thstrm_add_amount>3657652103</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1357465210</frmtrm_q_amount>
+        <frmtrm_add_amount>-1357465210</frmtrm_add_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>분기순이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4822805775</thstrm_amount>
+        <thstrm_add_amount>4822805775</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-5950939306</frmtrm_q_amount>
+        <frmtrm_add_amount>-5950939306</frmtrm_add_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_OtherComprehensiveIncome</account_id>
+        <account_nm>기타포괄손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1958382181</thstrm_amount>
+        <thstrm_add_amount>1958382181</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1147672876</frmtrm_q_amount>
+        <frmtrm_add_amount>1147672876</frmtrm_add_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax</account_id>
+        <account_nm>후속적으로 당기손익으로 재분류되는 항목</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1958382181</thstrm_amount>
+        <thstrm_add_amount>1958382181</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1147672876</frmtrm_q_amount>
+        <frmtrm_add_amount>1147672876</frmtrm_add_amount>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>지분법자본변동</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>81097703</thstrm_amount>
+        <thstrm_add_amount>81097703</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>65157562</frmtrm_q_amount>
+        <frmtrm_add_amount>65157562</frmtrm_add_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax</account_id>
+        <account_nm>해외사업장환산차이</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1877284478</thstrm_amount>
+        <thstrm_add_amount>1877284478</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1082515314</frmtrm_q_amount>
+        <frmtrm_add_amount>1082515314</frmtrm_add_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncome</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6781187956</thstrm_amount>
+        <thstrm_add_amount>6781187956</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-4803266430</frmtrm_q_amount>
+        <frmtrm_add_amount>-4803266430</frmtrm_add_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossAttributableToOwnersOfParent</account_id>
+        <account_nm>지배기업소유주지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4693820058</thstrm_amount>
+        <thstrm_add_amount>4693820058</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-6206750419</frmtrm_q_amount>
+        <frmtrm_add_amount>-6206750419</frmtrm_add_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ProfitLossAttributableToNoncontrollingInterests</account_id>
+        <account_nm>비지배지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>128985717</thstrm_amount>
+        <thstrm_add_amount>128985717</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>255811113</frmtrm_q_amount>
+        <frmtrm_add_amount>255811113</frmtrm_add_amount>
+        <ord>22</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent</account_id>
+        <account_nm>지배기업소유주지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6652202239</thstrm_amount>
+        <thstrm_add_amount>6652202239</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-5059077543</frmtrm_q_amount>
+        <frmtrm_add_amount>-5059077543</frmtrm_add_amount>
+        <ord>24</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests</account_id>
+        <account_nm>비지배지분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>128985717</thstrm_amount>
+        <thstrm_add_amount>128985717</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>255811113</frmtrm_q_amount>
+        <frmtrm_add_amount>255811113</frmtrm_add_amount>
+        <ord>25</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CIS</sj_div>
+        <sj_nm>포괄손익계산서</sj_nm>
+        <account_id>ifrs-full_BasicEarningsLossPerShare</account_id>
+        <account_nm>기본및희석주당손익</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>972</thstrm_amount>
+        <thstrm_add_amount>972</thstrm_add_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1285</frmtrm_q_amount>
+        <frmtrm_add_amount>-1285</frmtrm_add_amount>
+        <ord>27</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInOperatingActivities</account_id>
+        <account_nm>영업활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>21402095067</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>22249901406</frmtrm_q_amount>
+        <ord>0</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>영업으로부터 창출된 현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>22057057745</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>22798845195</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities</account_id>
+        <account_nm>법인세납부</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>654962678</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>548943789</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInInvestingActivities</account_id>
+        <account_nm>투자활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-13681336012</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-3787437809</frmtrm_q_amount>
+        <ord>3</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_ProceedsFromSalesOfOtherFinancialAssets</account_id>
+        <account_nm>기타금융자산의 감소</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6885360000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>30744377600</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfOtherFinancialAssets</account_id>
+        <account_nm>기타금융자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6926201206</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>30915000000</frmtrm_q_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>153780280</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>48845455</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</account_id>
+        <account_nm>유형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>7706764337</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>3766513753</frmtrm_q_amount>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities</account_id>
+        <account_nm>무형자산의 처분</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>418181818</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities</account_id>
+        <account_nm>무형자산의 취득</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>10620000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>5167530</frmtrm_q_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_PurchaseOfOtherNonCurrentFinancialAssets</account_id>
+        <account_nm>기타비유동자산의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6599490082</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_InterestReceivedClassifiedAsInvestingActivities</account_id>
+        <account_nm>이자의 수취</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>104417515</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>106020419</frmtrm_q_amount>
+        <ord>11</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_CashFlowsFromUsedInFinancingActivities</account_id>
+        <account_nm>재무활동현금흐름</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>9087229904</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-3277206083</frmtrm_q_amount>
+        <ord>12</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities</account_id>
+        <account_nm>차입금의 차입</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>118360299021</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>114006473271</frmtrm_q_amount>
+        <ord>13</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities</account_id>
+        <account_nm>차입금의 상환</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>107418269797</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>116249347034</frmtrm_q_amount>
+        <ord>14</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities</account_id>
+        <account_nm>리스부채의 지급</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>714480066</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>23121000</frmtrm_q_amount>
+        <ord>15</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>기타금융부채의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>180000000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>16</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_InterestPaidClassifiedAsFinancingActivities</account_id>
+        <account_nm>이자의 지급</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1320319254</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1011211320</frmtrm_q_amount>
+        <ord>17</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseInCashAndCashEquivalents</account_id>
+        <account_nm>현금및현금성자산의 증가</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>16807988959</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>15185257514</frmtrm_q_amount>
+        <ord>18</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>외화표시 현금및현금성자산의 환율변동효과</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>188756849</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>13562395</frmtrm_q_amount>
+        <ord>19</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtBeginningOfPeriodCf</account_id>
+        <account_nm>기초 현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>31445716222</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>7705574314</frmtrm_q_amount>
+        <ord>20</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>CF</sj_div>
+        <sj_nm>현금흐름표</sj_nm>
+        <account_id>dart_CashAndCashEquivalentsAtEndOfPeriodCf</account_id>
+        <account_nm>기말 현금및현금성자산</account_nm>
+        <account_detail>-</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>48442462030</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>22904394223</frmtrm_q_amount>
+        <ord>21</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>487135933808</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>486485835740</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>51033721038</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>21530747798</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>436102212770</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>464955087942</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-2453934947</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-2805587871</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>389270719379</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>411915333399</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>25024745000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>25024745000</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>32467900107</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>32467900107</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>dart_EquityAtBeginningOfPeriod</account_id>
+        <account_nm>기초자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본조정</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-8207216769</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1647302693</frmtrm_q_amount>
+        <ord>1</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>분기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4693820058</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-6206750419</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>분기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4693820058</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-6206750419</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>분기순이익(손실)</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>128985717</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>255811113</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_ProfitLoss</account_id>
+        <account_nm>분기순이익(손실)</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4822805775</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-5950939306</frmtrm_q_amount>
+        <ord>2</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>지분법자본변동</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>81097703</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>65157562</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>지분법자본변동</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>81097703</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>65157562</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>지분법자본변동</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>81097703</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>65157562</frmtrm_q_amount>
+        <ord>4</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>해외사업환산손익</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1877284478</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1082515314</frmtrm_q_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>해외사업환산손익</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1877284478</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1082515314</frmtrm_q_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>해외사업환산손익</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1877284478</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1082515314</frmtrm_q_amount>
+        <ord>5</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6652202239</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-5059077543</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>6781187956</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-4803266430</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>4693820058</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-6206750419</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1958382181</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>1147672876</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>총포괄이익(손실)</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>128985717</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>255811113</frmtrm_q_amount>
+        <ord>6</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl</account_id>
+        <account_nm>비지배주주와의 거래</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>747515242</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl</account_id>
+        <account_nm>비지배주주와의 거래</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>1185084449</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl</account_id>
+        <account_nm>비지배주주와의 거래</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>437569207</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl</account_id>
+        <account_nm>비지배주주와의 거래</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본조정</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>747515242</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <ord>7</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_DividendsPaid</account_id>
+        <account_nm>연차배당</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>965823800</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>482911900</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_DividendsPaid</account_id>
+        <account_nm>연차배당</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>965823800</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>482911900</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_DividendsPaid</account_id>
+        <account_nm>연차배당</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>965823800</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>482911900</frmtrm_q_amount>
+        <ord>8</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>종속기업의 배당</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-922000000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-450000000</frmtrm_q_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>-표준계정코드 미사용-</account_id>
+        <account_nm>종속기업의 배당</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-922000000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-450000000</frmtrm_q_amount>
+        <ord>9</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본조정</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-7459701527</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1647302693</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>32467900107</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>32467900107</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|자본금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>25024745000</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>25024745000</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|이익잉여금 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>392998715637</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>405225671080</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분|기타포괄손익누계액 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>-495552766</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>-1657914995</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|지배기업 소유주지분</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>442536106451</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>459413098499</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>자본 [member]|비지배지분 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>50678275962</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>21336558911</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+    <list>
+        <rcept_no>20200511000313</rcept_no>
+        <reprt_code>11013</reprt_code>
+        <bsns_year>2020</bsns_year>
+        <corp_code>00159412</corp_code>
+        <sj_div>SCE</sj_div>
+        <sj_nm>자본변동표</sj_nm>
+        <account_id>ifrs-full_Equity</account_id>
+        <account_nm>기말자본</account_nm>
+        <account_detail>연결재무제표 [member]</account_detail>
+        <thstrm_nm>제 65 기 1분기</thstrm_nm>
+        <thstrm_amount>493214382413</thstrm_amount>
+        <frmtrm_q_nm>제 64 기 1분기</frmtrm_q_nm>
+        <frmtrm_q_amount>480749657410</frmtrm_q_amount>
+        <ord>10</ord>
+        <currency>KRW</currency>
+    </list>
+</result>

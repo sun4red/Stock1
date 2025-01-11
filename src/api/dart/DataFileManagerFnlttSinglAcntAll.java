@@ -34,8 +34,12 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
         if (corp_code != null && !corp_code.isEmpty()) {
             corpDir = corp_code + "/";
             directory = fnlttSinglAcntAllDir + corpDir;
-        }
 
+        }
+        File dir = new File(directory);
+        if (!dir.exists()) {
+            dir.mkdirs();
+        }
         return directory;
     }
 
@@ -105,10 +109,10 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
 
                     for (int i = 0; i < nodeList.getLength(); i++) {
                         Node node = nodeList.item(i);
-                         DartFnlttSinglAcntAllDTO dto = parseNodeToDTO(node);
+                        DartFnlttSinglAcntAllDTO dto = parseNodeToDTO(node);
 
-                       list.add(dto);
-                    
+                        list.add(dto);
+
                     }
                 } else {
                     System.out.println("xml 데이터 확인: " + filePath);
@@ -129,7 +133,7 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
         DartFnlttSinglAcntAllDTO dto = new DartFnlttSinglAcntAllDTO();
         if (node.getNodeType() == Node.ELEMENT_NODE) {
             Element element = (Element) node;
-    
+
             // getTagValue 메소드로 태그가 없는 경우 "" 공백으로 처리
             dto.setRcept_no(getTagValue(element, "rcept_no"));
             dto.setReprt_code(getTagValue(element, "reprt_code"));
@@ -151,7 +155,6 @@ public class DataFileManagerFnlttSinglAcntAll extends DataFileManager {
         }
         return dto;
     }
-
 
     // #OverLoaded
     public List<DartFnlttSinglAcntAllDTO> readXmlFile(String corp_code, String bsns_year, String reprt_code,
