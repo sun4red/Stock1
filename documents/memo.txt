@@ -216,3 +216,13 @@ src
     filesystem
     config
     service
+
+==================================================
+25.01.12.
+
+api 하루 이용건수 체크
+db에서 영업이익률 group by 회사 연산
+
+빈 폴더 삭제
+
+DB Connection 부터 개선

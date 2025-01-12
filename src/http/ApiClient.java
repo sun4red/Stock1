@@ -8,7 +8,14 @@ import java.nio.charset.StandardCharsets;
 
 public class ApiClient {
 
-    public String getResponse(String urlString) {
+    static int dartCallCount;
+    static int dataCallCount;
+    static int apiCallCount = dartCallCount + dataCallCount;
+
+    private final String dartApiUrl = "https://opendart.fss.or.kr/";
+    private final String dataApiUrl = "https://apis.data.go.kr/";
+
+    public static String getResponse(String urlString) {
 
         String responseData = "";
 
@@ -23,7 +30,7 @@ public class ApiClient {
 
             int responseCode = conn.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) {
-  
+
                 BufferedReader in = new BufferedReader(
                         new InputStreamReader(conn.getInputStream(), StandardCharsets.UTF_8));
                 String inputLine;
@@ -40,13 +47,22 @@ public class ApiClient {
                 System.out.println("HTTP 요청 실패. 응답 코드: " + responseCode);
             }
 
-
             conn.disconnect();
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         return responseData;
+    }
+
+    private void recordCount(String urlString) {
+        if (urlString.startsWith(dartApiUrl)) {
+            dartCallCount += 1;
+        }
+        if (urlString.startsWith(dataApiUrl)) {
+            dataCallCount += 1;
+        }
+
     }
 
 }
