@@ -3,10 +3,10 @@ package test;
 import java.util.ArrayList;
 import java.util.List;
 
-import api.krx.DataFileManagerKRXListedInfo;
-import api.krx.model.KRXListedInfoDTO;
-import data.update.UpdateKRXListedInfo;
 import database.krx.KRXListedInfoDAO;
+import filesystem.DataFileManagerKRXListedInfo;
+import model.KRXListedInfoDTO;
+import service.update.UpdateKRXListedInfo;
 
 public class Main11 {
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ String filePath = dfm.filePath("20241108", "20250108","2","xml");
 UpdateKRXListedInfo update = new UpdateKRXListedInfo();
 update.newXmlData();
 
-// int result = update.xmlToDB("20241111", "20250111");
+int result = update.xmlToDB("20241111", "20250111");
 // System.out.println(result);
 
     }

@@ -1,11 +1,11 @@
 package test;
 
-import database.dart.DBDartFnlttSinglAcntAll;
+import database.dart.DartFnlttSinglAcntAllDAO;
 
 public class Main4 {
     public static void main(String[] args) {
 
-        DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+        DartFnlttSinglAcntAllDAO dbDartFnlttSinglAcntAll = new DartFnlttSinglAcntAllDAO();
 
         String rcept_no = dbDartFnlttSinglAcntAll.select_rcept_no("11011", "2021", "00938721");
 

@@ -7,13 +7,13 @@ import java.util.List;
 import api.data.CreateFilePath;
 import api.data.ReadData;
 import api.model.MDartFnlttSinglAcntAll;
-import database.dart.DBDartFnlttSinglAcntAll;
+import database.dart.DartFnlttSinglAcntAllDAO;
 
 public class Main5 {
     public static void main(String[] args) {
 
 
-DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+DartFnlttSinglAcntAllDAO dbDartFnlttSinglAcntAll = new DartFnlttSinglAcntAllDAO();
 dbDartFnlttSinglAcntAll.updateData("00938721");
 
 

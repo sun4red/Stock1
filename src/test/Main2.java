@@ -12,10 +12,10 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import api.dart.model.DartCorpcodeDTO;
 import api.data.ReadData;
-import database.DBConnection;
-import database.dart.DBDartCorpcode;
+import database.dart.DartCorpcodeDAO;
+import model.DartCorpcodeDTO;
+import servicebase.DBConnection;
 
 public class Main2 {
 
@@ -85,7 +85,7 @@ public class Main2 {
             // dbConnection.insertDCorpCode(list.get(i));
         // }
 
-        DBDartCorpcode dbDartCorpcode = new DBDartCorpcode();
+        DartCorpcodeDAO dbDartCorpcode = new DartCorpcodeDAO();
         List<DartCorpcodeDTO> selectList = dbDartCorpcode.selectCorpcode();
 
         System.out.println(selectList);

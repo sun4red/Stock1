@@ -226,3 +226,5 @@ db에서 영업이익률 group by 회사 연산
 빈 폴더 삭제
 
 DB Connection 부터 개선
+
+파일 구조 1차 정리

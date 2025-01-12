@@ -6,7 +6,7 @@ import java.util.List;
 
 import api.data.ReadData;
 import api.model.MDartFnlttSinglAcntAll;
-import database.dart.DBDartFnlttSinglAcntAll;
+import database.dart.DartFnlttSinglAcntAllDAO;
 
 public class Main3 {
     public static void main(String[] args) {
@@ -24,7 +24,7 @@ mDartFnlttSinglAcntAll = list.get(0);
 // BigDecimal bigDecimal  = new BigDecimal(mDartFnlttSinglAcntAll.getFrmtrm_amount());
 // System.out.println(bigDecimal);
 
-DBDartFnlttSinglAcntAll dbDartFnlttSinglAcntAll = new DBDartFnlttSinglAcntAll();
+DartFnlttSinglAcntAllDAO dbDartFnlttSinglAcntAll = new DartFnlttSinglAcntAllDAO();
 // dbDartFnlttSinglAcntAll.insertFnlttSinglAcntAll(mDartFnlttSinglAcntAll);
 dbDartFnlttSinglAcntAll.insertList(list);
 

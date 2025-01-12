@@ -6,7 +6,8 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import utility.EnvReader;
+
+import config.EnvReader;
 
 public class DBConnectionManager {
 
@@ -37,6 +38,20 @@ public class DBConnectionManager {
     }
 
     // DB 연결 종료
+    // #Base OverLoaded
+    public static void closeConnection(Connection con, PreparedStatement pstmt)
+            throws SQLException, IOException {
+
+        if (pstmt != null) {
+            pstmt.close();
+        }
+        if (con != null) {
+            con.close();
+        }
+
+    }
+
+    // DB 연결 종료
     public static void closeConnection(AutoCloseable... closeables) throws Exception {
 
         for (AutoCloseable closeable : closeables) {
@@ -51,8 +66,9 @@ public class DBConnectionManager {
     // INSERT/UPDATE/DELETE 쿼리 실행 메소드
     public static int executeUpdate(String sql, Object... params) {
         int result = 0;
-        try (Connection con = getConnection();
-                PreparedStatement pstmt = con.prepareStatement(sql)) {
+        try {
+            Connection con = getConnection();
+            PreparedStatement pstmt = con.prepareStatement(sql);
 
             // 파라미터 설정
             for (int i = 0; i < params.length; i++) {
@@ -62,12 +78,9 @@ public class DBConnectionManager {
             // 쿼리 실행
             result = pstmt.executeUpdate();
 
-            try {
-                closeConnection(con, pstmt);
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        } catch (SQLException e) {
+            closeConnection(con, pstmt);
+
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return result;

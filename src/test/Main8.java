@@ -1,6 +1,6 @@
 package test;
 
-import data.update.UpdateFnlttSinglAcntAll;
+import service.update.UpdateFnlttSinglAcntAll;
 
 public class Main8 {
     public static void main(String[] args) {
