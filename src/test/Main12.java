@@ -4,7 +4,7 @@ import java.util.List;
 
 import api.stock.model.StockCorpCodeDTO;
 import data.update.UpdateFnlttSinglAcntAll;
-import database.stock.StockCorpCodeDAO;
+import database.stock.DartCorpCodeDAO;
 
 public class Main12 {
     public static void main(String[] args) {
@@ -14,12 +14,12 @@ public class Main12 {
 
 UpdateFnlttSinglAcntAll update = new UpdateFnlttSinglAcntAll();
 
-StockCorpCodeDAO dao = new StockCorpCodeDAO();
+DartCorpCodeDAO dao = new DartCorpCodeDAO();
 List<StockCorpCodeDTO> list =  dao.selectViewListedCorp();
 
 System.out.println("list size = " + list.size());
 
-for(int i = 30; i < 40; i++){
+for(int i = 40; i < 50; i++){
 
     String corp_code = list.get(i).getCorp_code();
 

@@ -14,7 +14,7 @@ public class Main11 {
         List<KRXListedInfoDTO> list = new ArrayList<>();
 
 DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();
-String filePath = dfm.filePath("20241208", "20250108","2","xml");
+String filePath = dfm.filePath("20241108", "20250108","2","xml");
 
 
         // list = new DataFileManagerKRXListedInfo().readXmlFile(filePath);
@@ -28,8 +28,8 @@ String filePath = dfm.filePath("20241208", "20250108","2","xml");
 UpdateKRXListedInfo update = new UpdateKRXListedInfo();
 update.newXmlData();
 
-int result = update.xmlToDB("20241111", "20250111");
-System.out.println(result);
+// int result = update.xmlToDB("20241111", "20250111");
+// System.out.println(result);
 
     }
 }

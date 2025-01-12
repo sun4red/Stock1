@@ -14,38 +14,40 @@ import utility.EnvReader;
 
 public class DartCorpCodeDAO {
 
-    private DBConnectionManager dbManager = new DBConnectionManager();
-
-    public List<StockCorpCodeDTO> selectViewListedCorp() throws Exception {
+    public List<StockCorpCodeDTO> selectViewListedCorp() {
         List<StockCorpCodeDTO> list = new ArrayList<>();
 
         String sql = "select * from v_ListedCorp";
 
-        
-        Connection con = dbManager.getConnection();
-        PreparedStatement pstmt = con.prepareStatement(sql);
-        ResultSet rs = null;
+        try {
 
-        rs = pstmt.executeQuery();
+            Connection con = DBConnectionManager.getConnection();
+            PreparedStatement pstmt = con.prepareStatement(sql);
+            ResultSet rs = null;
 
-        while (rs.next()) {
+            rs = pstmt.executeQuery();
 
-            StockCorpCodeDTO dto = new StockCorpCodeDTO();
+            while (rs.next()) {
 
-            String corp_code = rs.getString("corp_code");
-            String corp_name = rs.getString("corp_code");
-            String stock_code = rs.getString("corp_code");
-            // String modify_date = rs.getString("modify_date");
+                StockCorpCodeDTO dto = new StockCorpCodeDTO();
 
-            dto.setCorp_code(corp_code);
-            dto.setCorp_name(corp_name);
-            dto.setStock_code(stock_code);
-            // dto.setModify_date(modify_date);
+                String corp_code = rs.getString("corp_code");
+                String corp_name = rs.getString("corp_code");
+                String stock_code = rs.getString("corp_code");
+                // String modify_date = rs.getString("modify_date");
 
-            list.add(dto);
+                dto.setCorp_code(corp_code);
+                dto.setCorp_name(corp_name);
+                dto.setStock_code(stock_code);
+                // dto.setModify_date(modify_date);
 
+                list.add(dto);
+
+            }
+            DBConnectionManager.closeConnection(con, pstmt, rs);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-        dbManager.closeConnection(con, pstmt, rs);
 
         return list;
     }
