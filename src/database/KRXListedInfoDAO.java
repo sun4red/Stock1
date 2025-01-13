@@ -1,6 +1,5 @@
-package database.krx;
+package database;
 
-import database.DBConnectionManager;
 import model.KRXListedInfoDTO;
 
 public class KRXListedInfoDAO {

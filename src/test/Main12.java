@@ -2,7 +2,7 @@ package test;
 
 import java.util.List;
 
-import database.stock.DartCorpCodeDAO;
+import database.ViewListedCorpDAO;
 import model.StockCorpCodeDTO;
 import service.update.UpdateFnlttSinglAcntAll;
 
@@ -13,7 +13,7 @@ public class Main12 {
 
         UpdateFnlttSinglAcntAll update = new UpdateFnlttSinglAcntAll();
 
-        DartCorpCodeDAO dao = new DartCorpCodeDAO();
+        ViewListedCorpDAO dao = new ViewListedCorpDAO();
         List<StockCorpCodeDTO> list = dao.selectViewListedCorp();
 
         System.out.println("list size = " + list.size());

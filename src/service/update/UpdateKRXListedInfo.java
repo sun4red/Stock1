@@ -2,12 +2,10 @@ package service.update;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import database.krx.KRXListedInfoDAO;
+import database.KRXListedInfoDAO;
 import filesystem.DataFileManagerKRXListedInfo;
 import filesystem.SaveDataFile;
 import http.ApiClient;
@@ -79,7 +77,7 @@ public class UpdateKRXListedInfo {
     }
 
     // #Base Method
-        public int xmlToDB(String beginBasDt, String endBasDt) {
+    public int xmlToDB(String beginBasDt, String endBasDt) {
         int result = 0;
 
         DataFileManagerKRXListedInfo dfm = new DataFileManagerKRXListedInfo();

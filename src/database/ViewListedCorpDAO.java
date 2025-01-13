@@ -1,4 +1,4 @@
-package database.stock;
+package database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -9,10 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import config.EnvReader;
-import database.DBConnectionManager;
 import model.StockCorpCodeDTO;
 
-public class DartCorpCodeDAO {
+public class ViewListedCorpDAO {
 
     public List<StockCorpCodeDTO> selectViewListedCorp() {
         List<StockCorpCodeDTO> list = new ArrayList<>();

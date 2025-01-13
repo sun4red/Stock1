@@ -6,7 +6,7 @@ import java.util.List;
 
 import api.data.ReadData;
 import api.model.MDartFnlttSinglAcntAll;
-import database.dart.DartFnlttSinglAcntAllDAO;
+import database.DartFnlttSinglAcntAllDAO;
 
 public class Main3 {
     public static void main(String[] args) {

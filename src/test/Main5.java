@@ -7,7 +7,7 @@ import java.util.List;
 import api.data.CreateFilePath;
 import api.data.ReadData;
 import api.model.MDartFnlttSinglAcntAll;
-import database.dart.DartFnlttSinglAcntAllDAO;
+import database.DartFnlttSinglAcntAllDAO;
 
 public class Main5 {
     public static void main(String[] args) {

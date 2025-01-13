@@ -1,6 +1,6 @@
 package test;
 
-import database.dart.DartFnlttSinglAcntAllDAO;
+import database.DartFnlttSinglAcntAllDAO;
 
 public class Main4 {
     public static void main(String[] args) {
