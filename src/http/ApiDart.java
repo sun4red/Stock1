@@ -146,4 +146,38 @@ public class ApiDart {
 
         };
 
+
+ // #Base Method
+ public String fnlttSinglIndx(String corp_code, String bsns_year, String reprt_code, String idx_cl_code) {
+
+        String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglIndx.xml";
+
+        String requestUrl = apiUrl
+                        + "?crtfc_key=" + crtfc_key;
+
+        if (corp_code != null && !corp_code.isEmpty()) {
+                requestUrl = requestUrl
+                                + "&corp_code="
+                                + corp_code;
+        }
+        if (bsns_year != null && !bsns_year.isEmpty()) {
+                requestUrl = requestUrl
+                                + "&bsns_year="
+                                + bsns_year;
+        }
+        if (reprt_code != null && !reprt_code.isEmpty()) {
+                requestUrl = requestUrl
+                                + "&reprt_code="
+                                + reprt_code;
+        }
+        if (idx_cl_code != null && !idx_cl_code.isEmpty()) {
+                requestUrl = requestUrl
+                                + "&idx_cl_code="
+                                + idx_cl_code;
+        }
+
+        return requestUrl;
+
+};
+
 }
