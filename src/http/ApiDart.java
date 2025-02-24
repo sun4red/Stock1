@@ -149,8 +149,8 @@ public class ApiDart {
 
  // #Base Method
  public String fnlttSinglIndx(String corp_code, String bsns_year, String reprt_code, String idx_cl_code) {
-
-        String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglIndx.xml";
+        // 고유번호, 사업연도, 보고서 코드, 지표분류코드드
+        String apiUrl = "https://opendart.fss.or.kr/api/fnlttSinglIndx.json";
 
         String requestUrl = apiUrl
                         + "?crtfc_key=" + crtfc_key;
